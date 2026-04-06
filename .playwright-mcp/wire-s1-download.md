@@ -1,0 +1,347 @@
+### Page state
+- Page URL: https://www.tvsubtitles.net/subtitle-72-1-en.html
+- Page Title: TVsubtitles.net - Download subtitles for The Wire season 1 (season 1 episode 1-13)
+- Page Snapshot:
+```yaml
+- generic [ref=e2]:
+  - generic [ref=e3]:
+    - paragraph [ref=e4]:
+      - generic [ref=e5]:
+        - link "english" [ref=e6] [cursor=pointer]:
+          - /url: http://www.tvsubtitles.net/subtitle-72-1-en.html
+          - img "english" [ref=e7]
+        - link "spanish" [ref=e8] [cursor=pointer]:
+          - /url: https://es.tvsubtitles.net/subtitle-72-1-en.html
+          - img "spanish" [ref=e9]
+        - link "french" [ref=e10] [cursor=pointer]:
+          - /url: https://fr.tvsubtitles.net/subtitle-72-1-en.html
+          - img "french" [ref=e11]
+        - link "russian" [ref=e12] [cursor=pointer]:
+          - /url: https://www.tvsubtitles.ru/subtitle-72-1-en.html
+          - img "russian" [ref=e13]
+        - img "ukrainian" [ref=e15]
+        - link "ukrainian" [ref=e16] [cursor=pointer]:
+          - /url: https://ua.tvsubtitles.net/subtitle-72-1-en.html
+          - img "ukrainian" [ref=e17]
+        - link "hungarian" [ref=e18] [cursor=pointer]:
+          - /url: https://hu.tvsubtitles.net/subtitle-72-1-en.html
+          - img "hungarian" [ref=e19]
+        - link "greek" [ref=e20] [cursor=pointer]:
+          - /url: https://gr.tvsubtitles.net/subtitle-72-1-en.html
+          - img "greek" [ref=e21]
+        - link "Movie subtitles" [ref=e22] [cursor=pointer]:
+          - /url: http://www.moviesubtitles.org
+    - generic [ref=e23]:
+      - link "TVsubtitles.net" [ref=e24] [cursor=pointer]:
+        - /url: /
+      - paragraph [ref=e25]: Download latest TV Show and TV Series subtitles
+  - generic [ref=e26]:
+    - list:
+      - listitem:
+        - link "Home" [ref=e27] [cursor=pointer]:
+          - /url: /
+      - listitem:
+        - link "TV Shows" [ref=e28] [cursor=pointer]:
+          - /url: /tvshows.html
+      - listitem:
+        - link "New" [ref=e29] [cursor=pointer]:
+          - /url: /new.html
+      - listitem:
+        - link "Top" [ref=e30] [cursor=pointer]:
+          - /url: /top.html
+      - listitem:
+        - link "Add" [ref=e31] [cursor=pointer]:
+          - /url: /add.html
+      - listitem:
+        - link "Feedback" [ref=e32] [cursor=pointer]:
+          - /url: /feedback.html
+      - listitem:
+        - link "Movies" [ref=e33] [cursor=pointer]:
+          - /url: http://www.msubs.net/
+    - generic [ref=e34]:
+      - text: Show subtitles
+      - combobox [ref=e35]:
+        - option "all" [selected]
+        - option "english"
+        - option "spanish"
+        - option "french"
+        - option "german"
+        - option "portuguese(br)"
+        - option "russian"
+        - option "ukrainian"
+        - option "italian"
+        - option "greek"
+        - option "arabic"
+        - option "hungarian"
+        - option "polish"
+        - option "turkish"
+        - option "dutch"
+        - option "portuguese"
+        - option "swedish"
+        - option "danish"
+        - option "finnish"
+        - option "korean"
+        - option "chinese"
+        - option "japanese"
+        - option "bulgarian"
+        - option "czech"
+        - option "romanian"
+    - paragraph [ref=e38]:
+      - textbox [ref=e39]
+      - button "Search" [ref=e40]
+  - iframe
+  - generic [ref=e43]:
+    - heading "Download The Wire season 1 subtitles" [level=2] [ref=e45]
+    - paragraph [ref=e46]:
+      - img "english" [ref=e47]
+      - generic [ref=e48]: english subtitles
+    - table [ref=e50]:
+      - rowgroup [ref=e51]:
+        - row:
+          - cell
+        - 'row "filename filename: The_Wire - season 1.en.zip" [ref=e52]':
+          - cell "filename" [ref=e53]:
+            - img "filename" [ref=e54]
+          - cell "filename:" [ref=e55]
+          - cell "The_Wire - season 1.en.zip" [ref=e56]
+        - 'row "subtitles amount subtitles amount: 13" [ref=e57]':
+          - cell "subtitles amount" [ref=e58]:
+            - img "subtitles amount" [ref=e59]
+          - cell "subtitles amount:" [ref=e60]
+          - cell "13" [ref=e61]
+        - 'row "subtitles list subtitles list: The Wire - 1x01 - The Target.en.srt The Wire - 1x02 - The Detail.en.srt The Wire - 1x03 - The Buys.en.srt The Wire - 1x04 - Old Cases.en.srt The Wire - 1x05 - The Pager.en.srt The Wire - 1x06 - The Wire.en.srt The Wire - 1x07 - One Arrest.en.srt The Wire - 1x08 - Lessons.en.srt The Wire - 1x09 - Game Day.en.srt The Wire - 1x10 - The Cost.en.srt The Wire - 1x11 - The Hunt.en.srt The Wire - 1x12 - Cleaning Up.en.srt The Wire - 1x13 - Sentencing.en.srt" [ref=e62]':
+          - cell "subtitles list" [ref=e63]:
+            - img "subtitles list" [ref=e64]
+          - cell "subtitles list:" [ref=e65]
+          - cell "The Wire - 1x01 - The Target.en.srt The Wire - 1x02 - The Detail.en.srt The Wire - 1x03 - The Buys.en.srt The Wire - 1x04 - Old Cases.en.srt The Wire - 1x05 - The Pager.en.srt The Wire - 1x06 - The Wire.en.srt The Wire - 1x07 - One Arrest.en.srt The Wire - 1x08 - Lessons.en.srt The Wire - 1x09 - Game Day.en.srt The Wire - 1x10 - The Cost.en.srt The Wire - 1x11 - The Hunt.en.srt The Wire - 1x12 - Cleaning Up.en.srt The Wire - 1x13 - Sentencing.en.srt" [ref=e66]:
+            - text: The Wire - 1x01 - The Target.en.srt
+            - text: The Wire - 1x02 - The Detail.en.srt
+            - text: The Wire - 1x03 - The Buys.en.srt
+            - text: The Wire - 1x04 - Old Cases.en.srt
+            - text: The Wire - 1x05 - The Pager.en.srt
+            - text: The Wire - 1x06 - The Wire.en.srt
+            - text: The Wire - 1x07 - One Arrest.en.srt
+            - text: The Wire - 1x08 - Lessons.en.srt
+            - text: The Wire - 1x09 - Game Day.en.srt
+            - text: The Wire - 1x10 - The Cost.en.srt
+            - text: The Wire - 1x11 - The Hunt.en.srt
+            - text: The Wire - 1x12 - Cleaning Up.en.srt
+            - text: The Wire - 1x13 - Sentencing.en.srt
+        - 'row "size size: 309.38 kb" [ref=e67]':
+          - cell "size" [ref=e68]:
+            - img "size" [ref=e69]
+          - cell "size:" [ref=e70]:
+            - generic [ref=e71]: "size:"
+          - cell "309.38 kb" [ref=e72]
+        - 'row "downloaded number of downloads: 17961" [ref=e73]':
+          - cell "downloaded" [ref=e74]:
+            - img "downloaded" [ref=e75]
+          - cell "number of downloads:" [ref=e76]:
+            - generic [ref=e77]: "number of downloads:"
+          - cell "17961" [ref=e78]
+        - row "Download Download" [ref=e79]:
+          - cell "Download Download" [ref=e80]:
+            - link "Download Download" [ref=e81] [cursor=pointer]:
+              - /url: download-72-1-en.html
+              - heading "Download Download" [level=3] [ref=e83]:
+                - img "Download" [ref=e84]
+                - text: Download
+    - link "Back to The Wire" [ref=e85] [cursor=pointer]:
+      - /url: tvshow-72-1.html
+  - generic [ref=e86]:
+    - link "Nissan" [ref=e88] [cursor=pointer]:
+      - /url: https://www.tvsubtitles.net/ext-nissan.html
+    - generic [ref=e90]:
+      - paragraph [ref=e91]:
+        - img "Site statistics" [ref=e92]
+        - text: Site statistics
+      - table [ref=e93]:
+        - rowgroup [ref=e94]:
+          - 'row "Total subtitles: 301583" [ref=e95]':
+            - cell "Total subtitles:" [ref=e96]
+            - cell "301583" [ref=e97]
+          - 'row "TV Shows: 2608" [ref=e98]':
+            - cell "TV Shows:" [ref=e99]
+            - cell "2608" [ref=e100]
+          - 'row "TV Episodes: 84876" [ref=e101]':
+            - cell "TV Episodes:" [ref=e102]
+            - cell "84876" [ref=e103]
+          - 'row "Downloads: 514 353 189" [ref=e104]':
+            - cell "Downloads:" [ref=e105]
+            - cell "514 353 189" [ref=e106]
+      - paragraph [ref=e107]: "Amount subtitles in languages:"
+      - table [ref=e108]:
+        - rowgroup [ref=e109]:
+          - row "english - 72 651 french - 39 172 greek - 36 065" [ref=e110]:
+            - cell "english - 72 651" [ref=e111]:
+              - img "english" [ref=e112]
+              - text: "- 72 651"
+            - cell "french - 39 172" [ref=e113]:
+              - img "french" [ref=e114]
+              - text: "- 39 172"
+            - cell "greek - 36 065" [ref=e115]:
+              - img "greek" [ref=e116]
+              - text: "- 36 065"
+          - row "portuguese - 28 080 hungarian - 19 295 portuguese(br) - 17 400" [ref=e117]:
+            - cell "portuguese - 28 080" [ref=e118]:
+              - img "portuguese" [ref=e119]
+              - text: "- 28 080"
+            - cell "hungarian - 19 295" [ref=e120]:
+              - img "hungarian" [ref=e121]
+              - text: "- 19 295"
+            - cell "portuguese(br) - 17 400" [ref=e122]:
+              - img "portuguese(br)" [ref=e123]
+              - text: "- 17 400"
+          - row "russian - 15 531 spanish - 14 676 romanian - 13 100" [ref=e124]:
+            - cell "russian - 15 531" [ref=e125]:
+              - img "russian" [ref=e126]
+              - text: "- 15 531"
+            - cell "spanish - 14 676" [ref=e127]:
+              - img "spanish" [ref=e128]
+              - text: "- 14 676"
+            - cell "romanian - 13 100" [ref=e129]:
+              - img "romanian" [ref=e130]
+              - text: "- 13 100"
+          - row "polish - 12 776 italian - 7 269 bulgarian - 5 752" [ref=e131]:
+            - cell "polish - 12 776" [ref=e132]:
+              - img "polish" [ref=e133]
+              - text: "- 12 776"
+            - cell "italian - 7 269" [ref=e134]:
+              - img "italian" [ref=e135]
+              - text: "- 7 269"
+            - cell "bulgarian - 5 752" [ref=e136]:
+              - img "bulgarian" [ref=e137]
+              - text: "- 5 752"
+          - row "dutch - 5 243 turkish - 5 127 german - 3 777" [ref=e138]:
+            - cell "dutch - 5 243" [ref=e139]:
+              - img "dutch" [ref=e140]
+              - text: "- 5 243"
+            - cell "turkish - 5 127" [ref=e141]:
+              - img "turkish" [ref=e142]
+              - text: "- 5 127"
+            - cell "german - 3 777" [ref=e143]:
+              - img "german" [ref=e144]
+              - text: "- 3 777"
+          - row "arabic - 2 243 ukrainian - 1 132 czech - 694" [ref=e145]:
+            - cell "arabic - 2 243" [ref=e146]:
+              - img "arabic" [ref=e147]
+              - text: "- 2 243"
+            - cell "ukrainian - 1 132" [ref=e148]:
+              - img "ukrainian" [ref=e149]
+              - text: "- 1 132"
+            - cell "czech - 694" [ref=e150]:
+              - img "czech" [ref=e151]
+              - text: "- 694"
+          - row "korean - 672 swedish - 338 finnish - 219" [ref=e152]:
+            - cell "korean - 672" [ref=e153]:
+              - img "korean" [ref=e154]
+              - text: "- 672"
+            - cell "swedish - 338" [ref=e155]:
+              - img "swedish" [ref=e156]
+              - text: "- 338"
+            - cell "finnish - 219" [ref=e157]:
+              - img "finnish" [ref=e158]
+              - text: "- 219"
+          - row "japanese - 137 danish - 129 chinese - 105" [ref=e159]:
+            - cell "japanese - 137" [ref=e160]:
+              - img "japanese" [ref=e161]
+              - text: "- 137"
+            - cell "danish - 129" [ref=e162]:
+              - img "danish" [ref=e163]
+              - text: "- 129"
+            - cell "chinese - 105" [ref=e164]:
+              - img "chinese" [ref=e165]
+              - text: "- 105"
+          - row
+      - paragraph
+      - paragraph [ref=e166]: "Downloads:"
+      - table [ref=e167]:
+        - rowgroup [ref=e168]:
+          - row "english - 193.3 mil french - 120.7 mil greek - 57.45 mil" [ref=e169]:
+            - cell "english - 193.3 mil" [ref=e170]:
+              - img "english" [ref=e171]
+              - text: "- 193.3 mil"
+            - cell "french - 120.7 mil" [ref=e172]:
+              - img "french" [ref=e173]
+              - text: "- 120.7 mil"
+            - cell "greek - 57.45 mil" [ref=e174]:
+              - img "greek" [ref=e175]
+              - text: "- 57.45 mil"
+          - row "russian - 19.87 mil portuguese(br) - 18.45 mil spanish - 15.94 mil" [ref=e176]:
+            - cell "russian - 19.87 mil" [ref=e177]:
+              - img "russian" [ref=e178]
+              - text: "- 19.87 mil"
+            - cell "portuguese(br) - 18.45 mil" [ref=e179]:
+              - img "portuguese(br)" [ref=e180]
+              - text: "- 18.45 mil"
+            - cell "spanish - 15.94 mil" [ref=e181]:
+              - img "spanish" [ref=e182]
+              - text: "- 15.94 mil"
+          - row "portuguese - 15.64 mil hungarian - 14.71 mil polish - 9.77 mil" [ref=e183]:
+            - cell "portuguese - 15.64 mil" [ref=e184]:
+              - img "portuguese" [ref=e185]
+              - text: "- 15.64 mil"
+            - cell "hungarian - 14.71 mil" [ref=e186]:
+              - img "hungarian" [ref=e187]
+              - text: "- 14.71 mil"
+            - cell "polish - 9.77 mil" [ref=e188]:
+              - img "polish" [ref=e189]
+              - text: "- 9.77 mil"
+          - row "romanian - 8.43 mil italian - 8.32 mil bulgarian - 5.44 mil" [ref=e190]:
+            - cell "romanian - 8.43 mil" [ref=e191]:
+              - img "romanian" [ref=e192]
+              - text: "- 8.43 mil"
+            - cell "italian - 8.32 mil" [ref=e193]:
+              - img "italian" [ref=e194]
+              - text: "- 8.32 mil"
+            - cell "bulgarian - 5.44 mil" [ref=e195]:
+              - img "bulgarian" [ref=e196]
+              - text: "- 5.44 mil"
+          - row "dutch - 5.29 mil turkish - 5.07 mil german - 4.94 mil" [ref=e197]:
+            - cell "dutch - 5.29 mil" [ref=e198]:
+              - img "dutch" [ref=e199]
+              - text: "- 5.29 mil"
+            - cell "turkish - 5.07 mil" [ref=e200]:
+              - img "turkish" [ref=e201]
+              - text: "- 5.07 mil"
+            - cell "german - 4.94 mil" [ref=e202]:
+              - img "german" [ref=e203]
+              - text: "- 4.94 mil"
+          - row "ukrainian - 4.6 mil arabic - 2.19 mil czech - 1.4 mil" [ref=e204]:
+            - cell "ukrainian - 4.6 mil" [ref=e205]:
+              - img "ukrainian" [ref=e206]
+              - text: "- 4.6 mil"
+            - cell "arabic - 2.19 mil" [ref=e207]:
+              - img "arabic" [ref=e208]
+              - text: "- 2.19 mil"
+            - cell "czech - 1.4 mil" [ref=e209]:
+              - img "czech" [ref=e210]
+              - text: "- 1.4 mil"
+          - row "japanese - 1.17 mil korean - 594597 swedish - 441219" [ref=e211]:
+            - cell "japanese - 1.17 mil" [ref=e212]:
+              - img "japanese" [ref=e213]
+              - text: "- 1.17 mil"
+            - cell "korean - 594597" [ref=e214]:
+              - img "korean" [ref=e215]
+              - text: "- 594597"
+            - cell "swedish - 441219" [ref=e216]:
+              - img "swedish" [ref=e217]
+              - text: "- 441219"
+          - row "chinese - 394832 finnish - 173035 danish - 34978" [ref=e218]:
+            - cell "chinese - 394832" [ref=e219]:
+              - img "chinese" [ref=e220]
+              - text: "- 394832"
+            - cell "finnish - 173035" [ref=e221]:
+              - img "finnish" [ref=e222]
+              - text: "- 173035"
+            - cell "danish - 34978" [ref=e223]:
+              - img "danish" [ref=e224]
+              - text: "- 34978"
+          - row
+      - paragraph
+  - generic [ref=e226]:
+    - link "Bagaj" [ref=e228] [cursor=pointer]:
+      - /url: https://www.aracinfob.com/bagaj-88.html
+    - text: © Copyright 2026 TVsubtitles.net.
+    - text: Page generation 0.007 seconds.
+```
