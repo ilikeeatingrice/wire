@@ -1,6 +1,7 @@
 import sys, os
 sys.path.insert(0, os.path.dirname(os.path.dirname(__file__)))
 import build
+import pytest
 
 MOCK_INDEX = [
     {"season": 1, "episode": 3, "title": "The Buys", "start": "00:38:53,897", "end": "00:38:57,128", "text": "You come at the king, you best not miss."},
@@ -51,3 +52,17 @@ def test_build_html_has_highlight_function():
 def test_build_html_has_escape_function():
     html = build.build_html(MOCK_INDEX)
     assert "function escapeHtml(" in html
+
+def test_main_missing_index(tmp_path, monkeypatch):
+    monkeypatch.setattr(build, "INDEX_FILE", str(tmp_path / "missing.json"))
+    with pytest.raises(SystemExit) as exc:
+        build.main()
+    assert exc.value.code == 1
+
+def test_main_malformed_index(tmp_path, monkeypatch):
+    bad = tmp_path / "index.json"
+    bad.write_text("not json", encoding="utf-8")
+    monkeypatch.setattr(build, "INDEX_FILE", str(bad))
+    with pytest.raises(SystemExit) as exc:
+        build.main()
+    assert exc.value.code == 1

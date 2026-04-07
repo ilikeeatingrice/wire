@@ -3,6 +3,7 @@
 
 import json
 import os
+import sys
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 INDEX_FILE = os.path.join(BASE_DIR, "index.json")
@@ -191,12 +192,12 @@ def main():
         with open(INDEX_FILE, encoding="utf-8") as f:
             index_data = json.load(f)
     except FileNotFoundError:
-        print(f"Error: index.json not found at {INDEX_FILE}")
-        print("Run: python search.py --rebuild")
-        return
+        print(f"Error: index.json not found at {INDEX_FILE}", file=sys.stderr)
+        print("Run: python search.py --rebuild", file=sys.stderr)
+        sys.exit(1)
     except json.JSONDecodeError as e:
-        print(f"Error: index.json is malformed: {e}")
-        return
+        print(f"Error: index.json is malformed: {e}", file=sys.stderr)
+        sys.exit(1)
     html = build_html(index_data)
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
         f.write(html)
