@@ -39,3 +39,15 @@ def test_build_html_has_episode_select():
 def test_build_html_has_context_select():
     html = build.build_html(MOCK_INDEX)
     assert 'id="context"' in html
+
+def test_build_html_has_search_function():
+    html = build.build_html(MOCK_INDEX)
+    assert "function runSearch()" in html
+
+def test_build_html_has_highlight_function():
+    html = build.build_html(MOCK_INDEX)
+    assert "function highlight(" in html
+
+def test_build_html_has_escape_function():
+    html = build.build_html(MOCK_INDEX)
+    assert "function escapeHtml(" in html

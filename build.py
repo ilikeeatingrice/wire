@@ -57,7 +57,124 @@ mark{background:#ff0;padding:0 1px}
 <div id="results"></div>
 <script>const INDEX=__INDEX__;</script>
 <script>
-// populated by JS in Task 3
+(function(){
+// --- Dropdown population ---
+var seasons = {};
+INDEX.forEach(function(e){
+  if(!seasons[e.season]) seasons[e.season]=new Set();
+  seasons[e.season].add(e.episode);
+});
+var seasonSel = document.getElementById('season');
+var episodeSel = document.getElementById('episode');
+Object.keys(seasons).sort(function(a,b){return a-b;}).forEach(function(s){
+  var opt = document.createElement('option');
+  opt.value = s; opt.textContent = 'Season '+s;
+  seasonSel.appendChild(opt);
+});
+
+function populateEpisodes(season){
+  episodeSel.innerHTML = '<option value="all">All</option>';
+  if(season === 'all') return;
+  var eps = [...seasons[season]].sort(function(a,b){return a-b;});
+  eps.forEach(function(ep){
+    var opt = document.createElement('option');
+    opt.value = ep; opt.textContent = 'Episode '+ep;
+    episodeSel.appendChild(opt);
+  });
+}
+seasonSel.addEventListener('change', function(){ populateEpisodes(seasonSel.value); });
+
+// --- Helpers ---
+function escapeHtml(t){
+  return t.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+}
+
+function highlight(text, pattern){
+  // Build a global version of the pattern
+  var gp = new RegExp(pattern.source, pattern.flags.replace('g','') + 'g');
+  var result = '';
+  var last = 0;
+  var m;
+  while((m = gp.exec(text)) !== null){
+    result += escapeHtml(text.slice(last, m.index));
+    result += '<mark>' + escapeHtml(m[0]) + '</mark>';
+    last = gp.lastIndex;
+    if(m[0].length === 0){ gp.lastIndex++; } // prevent infinite loop on zero-width match
+  }
+  result += escapeHtml(text.slice(last));
+  return result;
+}
+
+// --- Search ---
+function runSearch(){
+  var query = document.getElementById('query').value.trim();
+  if(!query) return;
+  var caseSensitive = document.getElementById('case-sensitive').checked;
+  var season = seasonSel.value;
+  var episode = episodeSel.value;
+  var ctxN = parseInt(document.getElementById('context').value, 10);
+
+  var flags = caseSensitive ? '' : 'i';
+  var pattern;
+  try { pattern = new RegExp(query, flags); }
+  catch(e){ pattern = new RegExp(query.replace(/[.*+?^${}()|[\\]\\\\]/g,'\\\\$&'), flags); }
+
+  var pool = INDEX;
+  if(season !== 'all') pool = pool.filter(function(e){ return e.season == season; });
+  if(episode !== 'all') pool = pool.filter(function(e){ return e.episode == episode; });
+
+  var matches = [];
+  for(var i=0; i<pool.length; i++){
+    if(!pattern.test(pool[i].text)) continue;
+    var before=[], after=[];
+    for(var j=Math.max(0,i-ctxN); j<i; j++){
+      if(pool[j].season===pool[i].season && pool[j].episode===pool[i].episode) before.push(pool[j]);
+    }
+    for(var j=i+1; j<=Math.min(pool.length-1,i+ctxN); j++){
+      if(pool[j].season===pool[i].season && pool[j].episode===pool[i].episode) after.push(pool[j]);
+    }
+    matches.push({match:pool[i], before:before, after:after});
+  }
+
+  renderResults(matches, pattern);
+}
+
+// --- Render ---
+function pad(n){ return String(n).padStart(2,'0'); }
+
+function renderResults(matches, pattern){
+  var LIMIT = 50;
+  var countEl = document.getElementById('count');
+  var container = document.getElementById('results');
+
+  if(matches.length === 0){
+    countEl.textContent = 'No results found.';
+    container.innerHTML = '';
+    return;
+  }
+
+  var shown = matches.slice(0, LIMIT);
+  countEl.textContent = matches.length > LIMIT
+    ? 'Showing first 50 of '+matches.length+' results \u2014 refine your query to see fewer'
+    : matches.length + (matches.length===1?' result':' results');
+
+  container.innerHTML = shown.map(function(r){
+    var m = r.match;
+    var lbl = 'S'+pad(m.season)+'E'+pad(m.episode)+' \u2014 '+escapeHtml(m.title)
+              +'&nbsp;&nbsp;['+m.start.replace(',','.')+' \u2192 '+m.end.replace(',','.')+']';
+    var bef = r.before.map(function(c){ return '<div class="ctx">'+escapeHtml(c.text)+'</div>'; }).join('');
+    var aft = r.after.map(function(c){ return '<div class="ctx">'+escapeHtml(c.text)+'</div>'; }).join('');
+    return '<div class="result"><div class="ep-label">'+lbl+'</div>'
+           +bef+'<div class="match-line">'+highlight(m.text, pattern)+'</div>'+aft+'</div>';
+  }).join('');
+}
+
+// --- Events ---
+document.getElementById('search-btn').addEventListener('click', runSearch);
+document.getElementById('query').addEventListener('keydown', function(e){
+  if(e.key==='Enter') runSearch();
+});
+})();
 </script>
 </body>
 </html>"""
