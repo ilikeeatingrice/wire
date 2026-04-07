@@ -3,7 +3,7 @@
 The Wire - Searchable Subtitle Index
 Usage: python search.py <query>
        python search.py "you come at the king"
-       python search.py omar --context 2
+       python search.py "it's all in the game" --context 2
 """
 
 import os
@@ -152,8 +152,8 @@ def main():
         epilog="""
 Examples:
   python search.py "you come at the king"
-  python search.py omar --context 2
   python search.py "it's all in the game" --context 3
+  python search.py "stick up boys" --context 2
   python search.py McNulty --season 1
   python search.py "stick up boys" --episode 4
   python search.py --rebuild

@@ -12,8 +12,8 @@ This folder contains English subtitle files (SRT format) for all 5 seasons of Th
 
 ```bash
 python search.py "you come at the king"
-python search.py omar --context 2
 python search.py "it's all in the game" --context 3
+python search.py "stick up boys" --context 2
 python search.py McNulty --season 1
 python search.py "stick up boys" --episode 4
 python search.py --rebuild   # rebuild index.json from scratch
