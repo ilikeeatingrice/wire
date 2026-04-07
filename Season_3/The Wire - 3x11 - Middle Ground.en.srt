@@ -1,4164 +1,3420 @@
 1
-00:01:49,360 --> 00:01:50,864
+00:00:35,411 --> 00:00:39,916
 That's far enough.
+Drop your laundry and turn slowly.
 
 2
-00:01:51,644 --> 00:01:54,273
-Drop your laundry
-and turn slowly.
+00:00:44,629 --> 00:00:48,591
+So you gonna Rob me now?
+I need to remind you who I am?
 
 3
-00:01:58,736 --> 00:02:00,644
-So, you gonna
-rob me now?
-
-4
-00:02:00,820 --> 00:02:02,564
-I need to remind you
-who I am?
-
-5
-00:02:02,790 --> 00:02:04,800
+00:00:48,674 --> 00:00:50,676
 Omar, isn't it?
 
-6
-00:02:09,532 --> 00:02:10,707
-Pull it slowly.
+4
+00:00:55,306 --> 00:00:57,934
+Pull it slowly. Then toss it.
 
-7
-00:02:10,770 --> 00:02:11,933
-Then toss it.
-
-8
-00:02:12,146 --> 00:02:14,143
+5
+00:00:58,017 --> 00:01:00,394
 Oh, I will move slow.
 
+6
+00:01:00,478 --> 00:01:03,606
+I ain't tossing nothing, bow tie.
+
+7
+00:01:04,398 --> 00:01:07,735
+So whatever you gonna do, you might
+as well go ahead and make it quick.
+
+8
+00:01:08,819 --> 00:01:11,864
+- I knew you'd come back.
+- I trust you didn't lose sleep over it.
+
 9
-00:02:14,497 --> 00:02:16,228
-But I ain't tossin' nothin'
+00:01:12,031 --> 00:01:16,327
+Worrying about you would be like
+wondering if the sun gonna come up.
 
 10
-00:02:16,822 --> 00:02:18,174
-bow tie.
-
-11
-00:02:18,463 --> 00:02:19,490
-So whatever you gonna do
-
-12
-00:02:19,499 --> 00:02:21,575
-you might as well go ahead
-and make it quick.
-
-13
-00:02:22,886 --> 00:02:24,251
-I knew you'd come back.
-
-14
-00:02:24,314 --> 00:02:26,071
-I trust you didn't
-lose sleep over it.
-
-15
-00:02:26,183 --> 00:02:28,081
-Worryin' about you would
-be like wonderin'
-
-16
-00:02:28,091 --> 00:02:29,396
-if the sun's gonna come up.
-
-17
-00:02:30,543 --> 00:02:32,641
+00:01:16,410 --> 00:01:18,412
 I ain't about to wild out over it.
 
-18
-00:02:33,410 --> 00:02:35,280
-What I want to know is
-how you find me?
+11
+00:01:19,247 --> 00:01:21,207
+What I want to know
+is how you find me.
 
-19
-00:02:35,343 --> 00:02:38,124
-Your boy, he didn't
-give you up easy.
+12
+00:01:21,290 --> 00:01:23,751
+Your boy, he didn't give you up easy.
 
-20
-00:02:38,210 --> 00:02:40,536
-Ain't sugar-water runnin'
-through them veins.
+13
+00:01:24,001 --> 00:01:26,879
+Ain't no sugar-water
+run through them veins.
 
-21
-00:02:40,965 --> 00:02:43,404
+14
+00:01:26,963 --> 00:01:30,049
 - You kill him?
 - He's resting.
 
+15
+00:01:30,132 --> 00:01:33,511
+- I see you favor a .45.
+- Tonight I do.
+
+16
+00:01:34,512 --> 00:01:37,974
+And I keeps one in the chamber,
+in case you pondering.
+
+17
+00:01:40,059 --> 00:01:41,852
+Nice showpiece you got there.
+
+18
+00:01:41,936 --> 00:01:45,356
+Walther ppk .380, double action.
+
+19
+00:01:46,190 --> 00:01:50,444
+- Hear them walthers like to jump some.
+- As will you, with one in your elbow.
+
+20
+00:01:50,528 --> 00:01:53,447
+That gun ain't got enough firepower
+to make myjoint useless.
+
+21
+00:01:53,531 --> 00:01:56,075
+It definitely won't stop me
+from emptying out half my mag.
+
 22
-00:02:44,363 --> 00:02:46,309
-I see you favor a 45.
+00:01:56,158 --> 00:02:00,246
+- You might not hit me.
+- This range? And this caliber?
 
 23
-00:02:46,436 --> 00:02:47,965
-Tonight I do.
+00:02:01,664 --> 00:02:05,084
+- Even if I miss, I can't miss.
+- I admire a man with confidence.
 
 24
-00:02:48,696 --> 00:02:51,691
-And I keeps one in the chamber,
-in case you ponderin'.
+00:02:05,376 --> 00:02:08,629
+I don't see no sweat
+on your brow neither, bro.
 
 25
-00:02:54,265 --> 00:02:55,933
-Nice show piece
-you got there.
+00:02:14,093 --> 00:02:16,053
+I suppose we could stand here all night.
 
 26
-00:02:56,033 --> 00:02:59,761
-Walther PPK.
-380, double action.
+00:02:16,262 --> 00:02:18,931
+Suppose we could.
 
 27
-00:03:00,328 --> 00:03:02,085
-Hear them walthers
-like to jump some.
+00:02:19,015 --> 00:02:20,975
+Or settle this once and forever.
 
 28
-00:03:02,161 --> 00:03:04,574
-As will you,
-with one in your elbow.
+00:02:26,856 --> 00:02:29,900
+I want to ask you something, brother.
 
 29
-00:03:04,712 --> 00:03:07,618
-That gun ain't got enough firepower
-to make my joint useless.
+00:02:35,406 --> 00:02:37,408
+Omar listening.
 
 30
-00:03:07,719 --> 00:03:10,132
-It definitely won't stop me
-from emptyin' out half my mag.
+00:02:47,043 --> 00:02:49,337
+When you walk through the garden
 
 31
-00:03:10,195 --> 00:03:13,051
-- You might not hit me.
-- This range?
+00:02:50,838 --> 00:02:53,257
+you gotta watch your back
 
 32
-00:03:13,126 --> 00:03:14,945
-And this caliber?
+00:02:54,675 --> 00:02:57,303
+well, I beg your pardon
 
 33
-00:03:15,779 --> 00:03:17,460
-Even if I miss,
-I can't miss.
+00:02:58,304 --> 00:03:00,514
+walk the straight and narrow track
 
 34
-00:03:17,534 --> 00:03:19,544
-I admire a man
-with confidence.
+00:03:00,598 --> 00:03:01,974
+walk the straight
+and narrow track
 
 35
-00:03:19,657 --> 00:03:22,210
-I don't see no sweat
-your brow neither, bro.
+00:03:02,058 --> 00:03:06,020
+if you walk with Jesus
 
 36
-00:03:28,243 --> 00:03:30,262
-I suppose we could
-stand here all night.
+00:03:06,103 --> 00:03:08,314
+he's gonna save your soul
 
 37
-00:03:30,641 --> 00:03:32,651
-S'pose we could.
+00:03:09,732 --> 00:03:12,109
+you gotta keep the devil
 
 38
-00:03:33,055 --> 00:03:35,494
-Or settle this
-once and forever.
+00:03:13,652 --> 00:03:16,280
+way down in the hole
 
 39
-00:03:40,977 --> 00:03:43,869
-I want to ask you something... brother.
+00:03:17,573 --> 00:03:20,034
+he got fire and the fury
 
 40
-00:03:49,681 --> 00:03:51,160
-Omar listenin'.
+00:03:20,117 --> 00:03:21,744
+fire and fury
 
 41
-00:05:24,503 --> 00:05:25,395
-Middle Ground
+00:03:21,952 --> 00:03:24,455
+at his command
 
 42
-00:05:46,074 --> 00:05:47,195
-<i<I'm going up the west. </i>
+00:03:25,456 --> 00:03:28,542
+well, you don't have to worry
 
 43
-00:05:47,274 --> 00:05:49,549
-<i>A-ight, me, too.
-A- ight. </i>
+00:03:28,626 --> 00:03:32,338
+hold on to Jesus' hands
 
 44
-00:05:51,112 --> 00:05:52,802
-Here we go.
+00:03:32,421 --> 00:03:35,424
+oh, we'll be safe from Satan
 
 45
-00:05:58,921 --> 00:06:01,100
-<i>Yo, I need some
-face time with the man. </i>
+00:03:36,133 --> 00:03:38,969
+when the thunder rolls
 
 46
-00:06:01,195 --> 00:06:03,391
-<i>Hold up, I'll holler
-back at you, man. </i>
+00:03:40,137 --> 00:03:43,516
+you gotta keep the devil
 
 47
-00:06:03,517 --> 00:06:04,575
-That would be Shamrock.
+00:03:44,183 --> 00:03:47,144
+way down in the hole
 
 48
-00:06:04,670 --> 00:06:08,524
-Assuming Stringer Bell is the man,
-now we wait for the return call.
+00:03:55,403 --> 00:03:58,572
+You gotta keep the devil
 
 49
-00:06:09,804 --> 00:06:11,368
-This is beautiful.
+00:03:59,323 --> 00:04:01,575
+way down in the hole
 
 50
-00:06:11,462 --> 00:06:13,862
-Lester, can you actually
-believe we fucking sold
+00:04:05,287 --> 00:04:06,580
+way down
 
 51
-00:06:13,863 --> 00:06:15,422
-the wiretaps to the targets.
+00:04:06,664 --> 00:04:09,333
+way down in the hole
 
 52
-00:06:16,217 --> 00:06:18,886
-For a week at least.
+00:04:31,605 --> 00:04:33,917
+- I'm going to the west.
+- All right.
 
 53
-00:06:20,007 --> 00:06:21,950
-Maybe we duck the bullet.
+00:04:33,941 --> 00:04:35,609
+- Peace out.
+- All right.
 
 54
-00:06:22,061 --> 00:06:24,083
-Maybe we clean this mess quietly,
+00:04:37,069 --> 00:04:38,612
+Here we go.
 
 55
-00:06:24,272 --> 00:06:26,894
-throw some horseshit at
-whatever reporter shows up
+00:04:44,952 --> 00:04:49,123
+- Yo, I need some face time with the man.
+- Hold on, I'll holler back at you, man.
 
 56
-00:06:27,336 --> 00:06:29,595
-and the Mayor
-forges and forgets.
+00:04:49,206 --> 00:04:50,499
+That'd be shamrock.
 
 57
-00:06:29,847 --> 00:06:31,411
-We're ready to move on this, right?
+00:04:50,583 --> 00:04:54,295
+Assuming stringer bell is the man,
+now we wait for the return call.
 
 58
-00:06:31,506 --> 00:06:34,072
-As soon as we get the word,
-we shut down all three zones
+00:04:55,713 --> 00:04:56,839
+This is beautiful.
 
 59
-00:06:34,073 --> 00:06:35,645
-toss everyone into wagons.
+00:04:57,089 --> 00:05:02,178
+Lester, can you actually believe we
+fucking sold the wiretaps to the targets?
 
 60
-00:06:35,771 --> 00:06:37,983
-There'll be nothing left
-of it before midnight shift.
+00:05:02,261 --> 00:05:04,513
+For a week at least.
 
 61
-00:06:38,172 --> 00:06:41,141
-So what the fuck are we
-waiting on for a day and half?
+00:05:05,973 --> 00:05:10,019
+Maybe we ducked a bullet.
+Maybe we clean this mess quietly,
 
 62
-00:06:41,236 --> 00:06:43,211
-Why isn't the Hall calling us?
+00:05:10,102 --> 00:05:13,189
+throw some horseshit
+at whatever reporter shows up
 
 63
-00:06:51,815 --> 00:06:54,564
-Commissioner Burrell
-for Mayor Royce.
+00:05:13,272 --> 00:05:15,608
+and the mayor forgives and forgets.
 
 64
-00:06:54,839 --> 00:06:56,792
-- I've heard enough...
-- Hold on, Coleman.
+00:05:15,691 --> 00:05:17,359
+We're ready to move on this, right?
 
 65
-00:06:56,810 --> 00:06:58,260
-Come on, let the man talk, huh?
+00:05:17,443 --> 00:05:21,530
+As soon as we get the word,
+we shut down all three zones.
 
 66
-00:06:58,402 --> 00:07:00,914
-Excuse me, Mayor. I have
-Commissioner Burrell on the line.
+00:05:21,614 --> 00:05:24,116
+There'll be nothing left
+before midnight shift.
 
 67
-00:07:01,008 --> 00:07:03,157
+00:05:24,200 --> 00:05:26,911
+So what the fuck are we waiting on
+for a day and half?
+
+68
+00:05:26,994 --> 00:05:29,246
+Why isn't the hall calling us?
+
+69
+00:05:36,962 --> 00:05:40,049
+- Mayor's office.
+- Commissioner burrell for mayor Royce.
+
+70
+00:05:40,799 --> 00:05:42,843
+- I've heard enough.
+- Hold on, Coleman.
+
+71
+00:05:42,927 --> 00:05:44,970
+- Let the man talk.
+- Excuse me, mayor.
+
+72
+00:05:45,054 --> 00:05:46,764
+I have commissioner burrell on the line.
+
+73
+00:05:46,847 --> 00:05:49,016
 - He says it's urgent.
 - I'll bet it is.
 
-68
-00:07:03,267 --> 00:07:05,099
+74
+00:05:49,099 --> 00:05:50,976
 He wants to move, Clarence.
 
-69
-00:07:05,194 --> 00:07:07,879
-He wants to clean this shit up
-yesterday, and so do we.
+75
+00:05:51,060 --> 00:05:53,896
+He wants to clean this shit up yesterday,
+and so do we.
 
-70
-00:07:07,958 --> 00:07:09,058
-Tell him to hold.
+76
+00:05:53,979 --> 00:05:56,357
+Tell him to hold. Go ahead, gene.
 
-71
-00:07:09,743 --> 00:07:11,544
-- Go ahead, gene.
-- Look
-
-72
-00:07:11,623 --> 00:07:13,586
-I'm not a politician,
+77
+00:05:56,440 --> 00:05:59,443
+Look, I'm not a politician,
 I'm an academic.
 
-73
-00:07:14,450 --> 00:07:16,882
-All I know is that from a
-public health perspective
+78
+00:06:00,152 --> 00:06:02,530
+From a public health perspective
 
-74
-00:07:16,930 --> 00:07:19,411
+79
+00:06:02,613 --> 00:06:04,949
 there are remarkable things
 happening in the free zones.
 
-75
-00:07:19,430 --> 00:07:23,390
-Needle exchanges, on-site blood
-testing, condom distribution.
-
-76
-00:07:23,469 --> 00:07:26,049
-Most of all we're interacting
-with an at-risk community
-
-77
-00:07:26,077 --> 00:07:27,465
-that is largely elusive.
-
-78
-00:07:27,510 --> 00:07:30,045
-We're even talking some of these
-people into drug treatment.
-
-79
-00:07:30,054 --> 00:07:33,259
-And that's just what U.M. and
-Bon Secours have brought to the table.
-
 80
-00:07:33,416 --> 00:07:34,887
-If this thing were sanctioned
+00:06:05,032 --> 00:06:09,245
+Needle exchanges, on-site blood testing,
+condom distribution.
 
 81
-00:07:34,888 --> 00:07:37,386
-my department could put
-public resources into play.
+00:06:09,328 --> 00:06:13,207
+We're interacting with an at-risk community
+that is largely elusive.
 
 82
-00:07:37,423 --> 00:07:39,958
-You people can't
-see the forest here.
+00:06:13,290 --> 00:06:15,793
+We're even talking some of them
+into drug treatment.
 
 83
-00:07:40,682 --> 00:07:41,835
-Odell?
+00:06:15,876 --> 00:06:19,046
+That's just what um and bon secours
+have brought to the table.
 
 84
-00:07:42,293 --> 00:07:46,527
-When the story breaks, the ministers
-will surely be against you.
+00:06:19,129 --> 00:06:23,425
+If this were sanctioned, my department
+could put public resources into play.
 
 85
-00:07:46,700 --> 00:07:49,391
-And most of the City Council
-will be walking sideways
+00:06:23,509 --> 00:06:27,304
+- You people can't see the forest here.
+- Odell?
 
 86
-00:07:49,392 --> 00:07:51,202
-away from your administration.
+00:06:28,222 --> 00:06:32,184
+When the story breaks,
+the ministers will surely be against you.
 
 87
-00:07:51,281 --> 00:07:53,935
-And my guess is the Governor
-and the legislature
+00:06:32,268 --> 00:06:35,145
+And most of the city council
+will be walking sideways
 
 88
-00:07:54,061 --> 00:07:57,789
-will use this opportunity to piss on
-the city from a great height.
+00:06:35,229 --> 00:06:37,147
+away from your administration.
 
 89
-00:07:57,884 --> 00:08:00,095
-And Washington?
-Oh...
+00:06:37,231 --> 00:06:39,775
+And my guess is
+the governor and the legislature
 
 90
-00:08:00,268 --> 00:08:01,984
-Can you imagine how far
+00:06:39,858 --> 00:06:43,779
+will use this opportunity
+to piss on the city from a great height.
 
 91
-00:08:01,985 --> 00:08:04,153
-the United States
-Department of Justice
+00:06:43,862 --> 00:06:46,073
+And Washington? Oooh.
 
 92
-00:08:04,154 --> 00:08:06,192
-is gonna crawl up
-your ass behind this?
+00:06:46,156 --> 00:06:49,910
+Can you imagine how far
+the United States department of justice
 
 93
-00:08:06,210 --> 00:08:08,558
-Crime is down, Odell.
+00:06:49,994 --> 00:06:52,121
+is gonna crawl up your ass behind this?
 
 94
-00:08:10,268 --> 00:08:12,763
-Medical people are
-telling me this could work.
+00:06:52,204 --> 00:06:54,582
+Crime is down, odell.
 
 95
-00:08:12,858 --> 00:08:16,602
-I mean, a 14% decline
-in felonies citywide
+00:06:56,208 --> 00:06:58,669
+Medical people
+are telling me this could work.
 
 96
-00:08:16,791 --> 00:08:19,792
-I might be untouchable on this.
-Now, look, we need to think
+00:06:58,752 --> 00:07:02,423
+I mean, a 14% decline in felonies citywide,
 
 97
-00:08:19,950 --> 00:08:21,836
-see if we can keep
-this thing going without
+00:07:02,590 --> 00:07:05,843
+I might be untouchable on this.
+Look, we need to think.
 
 98
-00:08:21,845 --> 00:08:23,329
-calling it what it really is, huh?
+00:07:05,926 --> 00:07:09,054
+See if we can keep this going
+without calling it what it really is.
 
 99
-00:08:23,348 --> 00:08:25,510
+00:07:09,138 --> 00:07:11,432
 - Jesus.
 - Now, there's got to be a way.
 
 100
-00:08:25,589 --> 00:08:28,353
+00:07:11,515 --> 00:07:14,685
 I want you to talk this thing out.
-Hey, Erv, thanks for holding...
+Erv, thanks for holding.
 
 101
-00:08:28,843 --> 00:08:30,123
+00:07:14,768 --> 00:07:16,270
 Yes, but...
 
 102
-00:08:33,960 --> 00:08:36,235
+00:07:19,982 --> 00:07:21,525
 Yes, I understand.
 
 103
-00:08:37,246 --> 00:08:39,363
-Then I'll wait
-to hear from you.
+00:07:23,152 --> 00:07:25,279
+Then I'll wait to hear from you.
 
 104
-00:08:40,658 --> 00:08:43,564
+00:07:26,614 --> 00:07:29,575
 We're to hold off
-on any action in Amsterdam.
+on any action in hamsterdam.
 
 105
-00:08:43,801 --> 00:08:47,671
-No arrests, no movement
-until further notice.
+00:07:29,658 --> 00:07:33,537
+No arrests,
+no movement until further notice.
 
 106
-00:08:47,813 --> 00:08:50,293
-He says he wants to regroup.
+00:07:33,621 --> 00:07:35,623
+He says he wants to regroup,
 
 107
-00:08:50,467 --> 00:08:53,563
-Determine the most
-effective course of action.
+00:07:36,498 --> 00:07:39,543
+determine the most effective
+course of action.
 
 108
-00:08:53,752 --> 00:08:57,575
-Translate that for me, will ya, Erv?
+00:07:39,627 --> 00:07:43,547
+Translate that for me, will you, erv?
 I don't speak his fucked-up lingo.
 
 109
-00:08:57,685 --> 00:09:01,192
+00:07:43,631 --> 00:07:47,468
 Royce is figuring a way to put
 all of us in the guillotine
 
 110
-00:09:01,650 --> 00:09:04,809
+00:07:47,551 --> 00:07:50,888
 and keep the blood from
-spraying anywhere near the Hall.
+spraying anywhere near the hall.
 
 111
-00:09:04,888 --> 00:09:08,015
-Shit, I'll be goddamned if
-I'm gonna go out like that:
+00:07:50,971 --> 00:07:53,974
+Shit, I'll be goddamned
+if I'm gonna go out like that.
 
 112
-00:09:08,157 --> 00:09:10,037
+00:07:54,058 --> 00:07:56,018
 Bent over in public.
 
 113
-00:09:10,132 --> 00:09:12,864
-I can spin the story just as
-well as that motherfucker.
+00:07:56,101 --> 00:07:58,937
+I can spin the story
+just as well as that motherfucker.
 
 114
-00:09:12,943 --> 00:09:15,802
+00:07:59,021 --> 00:08:01,732
 - You're gonna go to the press?
 - Not me.
 
 115
-00:09:15,976 --> 00:09:17,550
+00:08:01,899 --> 00:08:03,233
 But I know a slick little bastard
 
 116
-00:09:17,578 --> 00:09:19,944
+00:08:03,317 --> 00:08:06,403
 who will happily
-put Hizzoner's shit in the street.
+put his honor's shit in the street.
 
 117
-00:09:23,558 --> 00:09:25,674
-Somethin' funny 'bout that?
+00:08:09,573 --> 00:08:11,492
+Something funny about that?
 
 118
-00:09:25,879 --> 00:09:28,947
-'Cause I look in the paper and I see
-all these federal grants comin' down
+00:08:11,575 --> 00:08:15,996
+I look in the paper, and I see all these
+federal grants, but nothing for b&b.
 
 119
-00:09:28,976 --> 00:09:30,084
-but nothin' for B-and-B.
-
-120
-00:09:31,408 --> 00:09:34,425
+00:08:17,289 --> 00:08:20,209
 - You're expecting what?
 - Payout.
 
+120
+00:08:20,376 --> 00:08:22,378
+A big payout for what we put in, man.
+
 121
-00:09:34,521 --> 00:09:36,439
-A big payout for what
-we put in, man.
+00:08:22,461 --> 00:08:24,838
+Federal dollars
+on them Howard street rehabs.
 
 122
-00:09:36,440 --> 00:09:38,754
-Federal dollars on them
-Howard Street rehabs.
+00:08:24,922 --> 00:08:27,174
+- You gave money up front?
+- $250,000, yeah.
 
 123
-00:09:38,833 --> 00:09:41,519
-- You gave money up front?
-- 250,000, yep.
-
-124
-00:09:41,613 --> 00:09:43,130
+00:08:27,257 --> 00:08:29,510
 To Clay Davis.
 
-125
-00:09:44,598 --> 00:09:46,099
+124
+00:08:30,427 --> 00:08:32,513
 How you know?
 
+125
+00:08:32,596 --> 00:08:34,890
+What you saying? He's running game?
+
 126
-00:09:46,794 --> 00:09:48,105
-What you sayin'?
+00:08:34,973 --> 00:08:38,936
+- No, hell, no, he ain't that brazen.
+- Mm-mm. Let me guess.
 
 127
-00:09:48,326 --> 00:09:50,696
-He's runnin' game?
-Naw, hell no, he ain't that brazen.
+00:08:39,019 --> 00:08:41,230
+He's told you about the faucet.
 
 128
-00:09:51,391 --> 00:09:52,986
-Lemme guess.
-
-129
-00:09:53,127 --> 00:09:55,213
-He told you about the faucet.
-
-130
-00:09:55,465 --> 00:09:57,550
+00:08:41,313 --> 00:08:44,066
 Or was it the goose
 that laid the golden egg?
 
+129
+00:08:44,149 --> 00:08:45,859
+You ever actually meet the man?
+
+130
+00:08:45,943 --> 00:08:48,487
+Did you see any of your cash
+reach anyone in authority?
+
 131
-00:09:58,262 --> 00:09:59,968
-You ever actually
-meet the man?
+00:08:48,570 --> 00:08:50,572
+I met the guy at the federal building.
 
 132
-00:10:00,094 --> 00:10:03,005
-Did you ever actually see any of
-your cash reach anyone in authority?
+00:08:50,656 --> 00:08:52,658
+Yeah? What office?
 
 133
-00:10:03,014 --> 00:10:04,883
-Yeah, I met the guy
-at the federal building.
-
-134
-00:10:04,887 --> 00:10:05,573
-Yeah, I met him.
-
-135
-00:10:05,601 --> 00:10:06,521
-Yeah, what office?
-
-136
-00:10:08,497 --> 00:10:09,821
+00:08:54,326 --> 00:08:56,495
 He came down to the lobby.
 
-137
-00:10:15,021 --> 00:10:16,602
-he rainmade you.
-
-138
-00:10:17,311 --> 00:10:19,737
-A guy says if you pay him,
+134
+00:09:00,874 --> 00:09:05,462
+He rainmade you. A guy says if you pay him,
 he can make it rain.
 
+135
+00:09:05,921 --> 00:09:08,924
+You pay him.
+If and when it rains, he takes the credit.
+
+136
+00:09:09,007 --> 00:09:12,261
+If and when it doesn't,
+he finds reasons for you to pay him more.
+
+137
+00:09:12,344 --> 00:09:14,054
+- Clay Davis rainmade you.
+- No, man.
+
+138
+00:09:14,138 --> 00:09:16,932
+He got them building permits
+in no time at all, man.
+
 139
-00:10:19,996 --> 00:10:23,013
-You pay him. If and when it rains,
-he takes the credit.
+00:09:17,015 --> 00:09:20,728
+We bribing these motherfuckers.
+He got the city contractor's money back.
 
 140
-00:10:23,124 --> 00:10:26,220
-If and when it doesn't, he finds
-reasons for you to pay him more.
+00:09:20,936 --> 00:09:23,021
+- How much?
+- $35,000 so far.
 
 141
-00:10:26,393 --> 00:10:27,689
-Clay Davis rainmade you.
-
-142
-00:10:27,720 --> 00:10:31,053
-Naw, man, he got them building
-permits in no time at all, man.
-
-143
-00:10:31,084 --> 00:10:32,957
-I mean, we bribing
-these motherfuckers.
-
-144
-00:10:33,061 --> 00:10:34,892
-He got the city
-contractor's money back.
-
-145
-00:10:34,907 --> 00:10:37,024
-- How much?
-- 35,000 so far.
-
-146
-00:10:37,466 --> 00:10:40,610
-- On a quarter million you gave him?
+00:09:23,105 --> 00:09:25,691
+- On the quarter-million?
 - It's for bribing the motherfuckers.
 
-147
-00:10:40,619 --> 00:10:41,778
+142
+00:09:25,774 --> 00:09:27,901
 There are no bribes!
 
+143
+00:09:28,485 --> 00:09:33,031
+You really think a state senator is
+going to risk his salary and his position
+
+144
+00:09:33,115 --> 00:09:36,368
+by walking into a federal office
+with a briefcase full of drug money?
+
+145
+00:09:36,535 --> 00:09:38,495
+I seen chunky, chunky coates.
+
+146
+00:09:38,579 --> 00:09:40,664
+He gets his money same way everyone does.
+
+147
+00:09:40,748 --> 00:09:44,418
+He fills out applications, checks
+the plans, then prays like hell.
+
 148
-00:10:42,536 --> 00:10:44,874
-You really think
-a state senator is going
+00:09:46,128 --> 00:09:49,131
+This is an old game in this town.
+And Clay Davis?
 
 149
-00:10:44,892 --> 00:10:47,006
-to risk his salary
-and his position
+00:09:50,090 --> 00:09:52,926
+That ganef was born
+with his hand in someone's pocket.
 
 150
-00:10:47,164 --> 00:10:50,466
-by walking into a federal office with
-a briefcase full of drug money?
+00:09:53,010 --> 00:09:55,179
+I just wish you'd run it by me sooner.
 
 151
-00:10:50,497 --> 00:10:52,376
-I seen Chunky... Chunky Coates.
+00:10:08,609 --> 00:10:11,236
+Now here's shamrock
+returning bodie's call.
 
 152
-00:10:52,408 --> 00:10:54,862
-Chunky Coates gets his grant money
-same way everyone does.
+00:10:12,404 --> 00:10:13,447
+Talk about it.
 
 153
-00:10:54,881 --> 00:10:57,426
-He fills out applications,
-he makes sure the plans meet spec
+00:10:13,530 --> 00:10:16,658
+The man said he'd see you
+same time as always.
 
 154
-00:10:57,454 --> 00:10:58,612
-then he prays like hell.
+00:10:16,742 --> 00:10:20,162
+During the first call, sydnor had eyes
+on shamrock over in west Baltimore.
 
 155
-00:11:00,132 --> 00:11:03,102
-This is an old game in this
-town, and Clay Davis?
+00:10:20,245 --> 00:10:22,247
+All right? Now look at this.
 
 156
-00:11:04,187 --> 00:11:06,761
-That goniff was born with
-his hand in someone's pocket.
-
-157
-00:11:07,156 --> 00:11:09,352
-I just wish you'd have
-run it by me sooner.
-
-158
-00:11:22,670 --> 00:11:26,351
-Now here's Shamrock
-returning Bodie's call.
-
-159
-00:11:26,461 --> 00:11:27,419
-<i>Talk about it. </i>
-
-160
-00:11:27,420 --> 00:11:29,852
-<i>Yo, the man said he'd see you,
-same time as always. </i>
-
-161
-00:11:30,031 --> 00:11:30,945
-<i>You know the spot. </i>
-
-162
-00:11:30,973 --> 00:11:34,260
-During the first call, Sydnor had eyes
-on Shamrock over in West Baltimore.
-
-163
-00:11:34,280 --> 00:11:36,152
-Alright? Now look at this.
-
-164
-00:11:36,791 --> 00:11:40,314
-At the time, Stringer Bell
+00:10:22,414 --> 00:10:26,084
+At the time, stringer bell
 was at the print shop.
 
-165
-00:11:40,393 --> 00:11:42,099
-So it couldn't be
-a face-to-face meet.
+157
+00:10:26,168 --> 00:10:28,128
+So it couldn't be a face-to-face meet.
 
-166
-00:11:42,193 --> 00:11:44,563
-We didn't catch a call between
-Stringer and Shamrock.
+158
+00:10:28,212 --> 00:10:32,299
+We didn't catch a call between stringer
+and shamrock. How can that be?
 
-167
-00:11:45,226 --> 00:11:46,284
-How can that be?
+159
+00:10:32,382 --> 00:10:35,677
+Stringer's phone isn't on the same network
+as everyone below him.
 
-168
-00:11:46,363 --> 00:11:49,775
-Stringer's phone isn't on the same
-network as everyone below him.
-
-169
-00:11:49,870 --> 00:11:53,171
+160
+00:10:35,761 --> 00:10:39,056
 - Right you are, ma'am.
-- Bell's not using Bernard's burners?
+- Bell's not using Bernard's burners.
 
-170
-00:11:53,313 --> 00:11:56,457
-And Shamrock has a separate
-phone for calling Bell.
+161
+00:10:39,264 --> 00:10:42,810
+And shamrock has a separate phone
+for calling bell.
 
-171
-00:11:56,883 --> 00:12:00,405
-We can't hear those calls because
-the system's compartmentalized.
+162
+00:10:42,893 --> 00:10:46,522
+We can't hear those calls
+because the system's compartmentalised.
 
-172
-00:12:01,242 --> 00:12:02,759
+163
+00:10:47,147 --> 00:10:48,524
 Some tricky motherfuckers.
 
-173
-00:12:02,853 --> 00:12:05,523
+164
+00:10:48,607 --> 00:10:51,318
 A week or so up on Bernard's phones
-and we'll have everybody
+and we'll have everybody,
 
-174
-00:12:05,570 --> 00:12:08,761
-up to and including Shamrock
+165
+00:10:51,401 --> 00:10:54,738
+up to and including shamrock,
 tangled up in conspiracy counts.
 
-175
-00:12:08,919 --> 00:12:10,435
-But Bell or Barksdale?
+166
+00:10:54,822 --> 00:10:56,240
+But bell or barksdale?
 
-176
-00:12:10,498 --> 00:12:13,209
-Not unless we can pluck their
-cell numbers out the air.
+167
+00:10:56,406 --> 00:10:59,535
+Not unless we can
+pluck their cell numbers out of the air.
 
-177
-00:12:16,279 --> 00:12:18,949
-Where you headed?
-Toy store.
+168
+00:11:02,287 --> 00:11:04,706
+- Where you headed?
+- Toy store.
 
-178
-00:12:22,346 --> 00:12:24,889
-He legalized drugs
-in special zones?
+169
+00:11:08,252 --> 00:11:13,131
+- He iegalised drugs in special zones?
+- It's more than that.
 
-179
-00:12:25,963 --> 00:12:27,347
-It's more
-than that.
+170
+00:11:13,215 --> 00:11:16,844
+Major Colvin lost the necessary perspective
 
-180
-00:12:27,700 --> 00:12:30,758
-Major Colvin lost
-the necessary perspective
-
-181
-00:12:30,759 --> 00:12:32,881
+171
+00:11:16,927 --> 00:11:18,929
 that is required for command.
 
-182
-00:12:33,750 --> 00:12:37,257
-We were all under pressure
-to reduce crime before year end
+172
+00:11:19,596 --> 00:11:22,766
+Now, we were all under pressure
+to reduce crime before year-end,
 
-183
-00:12:37,351 --> 00:12:40,021
-and he responded poorly
-to that pressure.
+173
+00:11:23,350 --> 00:11:25,644
+and he responded poorly to that pressure.
 
-184
-00:12:40,115 --> 00:12:42,690
-Pressured by who?
-Mayor?
+174
+00:11:25,936 --> 00:11:28,063
+Pressure by who? Mayor?
 
-185
-00:12:42,943 --> 00:12:45,486
+175
+00:11:28,939 --> 00:11:31,441
 I'm just explaining to you
 
-186
-00:12:45,691 --> 00:12:48,914
-that the pressure was applied
-all down the line
+176
+00:11:31,525 --> 00:11:34,820
+that the pressure
+was applied all down the line,
 
-187
-00:12:49,087 --> 00:12:51,602
+177
+00:11:34,903 --> 00:11:37,406
 from headquarters
-to the district commanders
+to the district commanders,
 
-188
-00:12:51,603 --> 00:12:54,252
-to the shift
-and sector supervisors.
+178
+00:11:37,489 --> 00:11:39,867
+to the shift and sector supervisors.
 
-189
-00:12:54,426 --> 00:12:57,743
+179
+00:11:39,950 --> 00:11:43,453
 So Colvin's 14% decline was bullshit.
 
-190
-00:12:59,070 --> 00:13:01,834
+180
+00:11:44,955 --> 00:11:48,208
 And they're selling drugs
-with police permission in Western?
+with police permission in western?
 
-191
-00:13:02,387 --> 00:13:06,920
-The department is ready to shut that
-mess down with mass arrests.
+181
+00:11:48,292 --> 00:11:53,005
+The department is ready
+to shut that mess down with mass arrests.
 
-192
-00:13:07,030 --> 00:13:10,158
+182
+00:11:53,088 --> 00:11:55,966
 - I'm on top of it.
 - Why don't you move?
 
-193
-00:13:11,074 --> 00:13:12,678
-The Mayor says wait.
+183
+00:11:56,967 --> 00:11:58,510
+The mayor says wait.
 
-194
-00:13:13,743 --> 00:13:14,525
-Why?
+184
+00:12:02,139 --> 00:12:04,182
+I think he's gonna make some kind of show,
 
-195
-00:13:16,192 --> 00:13:18,387
-I think he's gonna
-make some kinda show.
+185
+00:12:04,266 --> 00:12:07,895
+spin it so that I take the weight for
+something that has nothing to do with me,
 
-196
-00:13:18,434 --> 00:13:19,936
-Spin it so that
-I take the weight
+186
+00:12:07,978 --> 00:12:12,316
+and everything to do with the pressure that
+my commanders were getting from city hall.
 
-197
-00:13:19,937 --> 00:13:21,910
-for something that has
-nothing to do with me
+187
+00:12:17,863 --> 00:12:22,367
+Going public and putting the responsibility
+for this back at city hall
 
-198
-00:13:22,004 --> 00:13:24,192
-and everything to do
-with the pressure
+188
+00:12:22,451 --> 00:12:24,828
+is the only move I have left, right?
 
-199
-00:13:24,193 --> 00:13:26,459
-that my commanders
-are getting from City Hall.
+189
+00:12:25,871 --> 00:12:28,498
+I mean, I spin Royce before he spins me.
 
-200
-00:13:31,940 --> 00:13:35,588
-Going public and putting the
-responsibility for this
-
-201
-00:13:35,635 --> 00:13:38,763
-back at City Hall is the only
-move I have left, right?
-
-202
-00:13:39,790 --> 00:13:42,965
-I mean, I spin Royce
-before he spins me.
-
-203
-00:13:43,075 --> 00:13:45,334
+190
+00:12:28,999 --> 00:12:31,168
 - And you want me to...
-- Not you.
+- No, not you.
 
-204
-00:13:45,429 --> 00:13:47,261
-Your pal, Tony Gray.
+191
+00:12:31,251 --> 00:12:33,170
+Your pal, Tony gray.
 
-205
-00:13:47,355 --> 00:13:51,083
+192
+00:12:33,253 --> 00:12:37,132
 If he's gonna take a run at Royce,
 he's gonna need ammunition, right?
 
-206
-00:13:55,143 --> 00:13:58,697
-I don't have a relationship with Gray.
+193
+00:12:41,011 --> 00:12:44,932
+I don't have a relationship with gray.
 I do have one with you.
 
-207
-00:13:59,281 --> 00:14:02,962
-And Councilman?
-You owe me.
+194
+00:12:45,015 --> 00:12:48,310
+And, councilman, you owe me.
 
-208
-00:14:08,126 --> 00:14:10,827
+195
+00:12:54,024 --> 00:12:56,818
 - What's up, hotshot?
 - I got a technical question.
 
-209
-00:14:10,906 --> 00:14:12,419
-Remember those
-analog units we used
+196
+00:12:56,902 --> 00:13:00,113
+Remember those units we used to use
+to get cell numbers?
 
-210
-00:14:12,447 --> 00:14:14,335
-to use to pull cell
-numbers out of the air?
+197
+00:13:00,197 --> 00:13:01,949
+Cf-something-something.
 
-211
-00:14:14,363 --> 00:14:15,945
-The C.F. something-something...
+198
+00:13:02,032 --> 00:13:04,159
+Cell frequency identification device.
 
-212
-00:14:16,103 --> 00:14:18,393
-Yeah, Cell Frequency
-Identification Device.
+199
+00:13:04,242 --> 00:13:07,120
+- The triggerfish.
+- That one. It could flag a number.
 
-213
-00:14:18,551 --> 00:14:21,268
-- The triggerfish, yeah.
-- That one, it could flag a number.
+200
+00:13:07,204 --> 00:13:08,789
+Right. With the old machines,
 
-214
-00:14:21,347 --> 00:14:22,917
-Right, but the old analog machines?
+201
+00:13:08,872 --> 00:13:11,792
+we had to follow the guy
+while he used the phone.
 
-215
-00:14:22,926 --> 00:14:24,607
-We used to have to
-follow the guy around
+202
+00:13:11,875 --> 00:13:15,671
+New digitals? Bing. You just pull
+the number right off the cell tower.
 
-216
-00:14:24,625 --> 00:14:27,349
-stay close while he used the phone.
-New digitals...
+203
+00:13:15,879 --> 00:13:17,547
+You got any that daddy can borrow?
 
-217
-00:14:27,459 --> 00:14:29,799
-bing, we just pull the number
-right off the cell towers.
-
-218
-00:14:29,827 --> 00:14:32,391
-So, you got any down out at
-Woodlawn that daddy can borrow?
-
-219
-00:14:32,419 --> 00:14:33,983
+204
+00:13:17,631 --> 00:13:20,092
 - What about yours?
 - What?
 
-220
-00:14:34,141 --> 00:14:36,053
-City has three of 'em,
-I remember right.
+205
+00:13:20,175 --> 00:13:22,135
+City has three of them, I remember right.
 
-221
-00:14:36,194 --> 00:14:38,025
-Homeland security
-grant sent 'em to you
+206
+00:13:22,219 --> 00:13:25,764
+Homeland security sent them to you,
+every big county department.
 
-222
-00:14:38,026 --> 00:14:39,764
-every big county department
-in the state.
-
-223
-00:14:39,859 --> 00:14:41,470
+207
+00:13:25,847 --> 00:13:27,724
 No fucking way.
 
-224
-00:14:44,124 --> 00:14:45,813
+208
+00:13:30,060 --> 00:13:31,395
 Thanks.
 
-225
-00:14:50,142 --> 00:14:52,574
-- I doubted you, Tommy.
+209
+00:13:36,149 --> 00:13:38,235
+- I doubted you.
 - I told you it was big.
 
-226
-00:14:52,606 --> 00:14:53,711
+210
+00:13:38,318 --> 00:13:39,403
 If we play it right.
 
-227
-00:14:53,806 --> 00:14:56,460
-He wants me to turn the
-information over to Tony Gray...
+211
+00:13:39,486 --> 00:13:42,322
+He wants me to turn the information
+over to Tony gray.
 
-228
-00:14:56,555 --> 00:14:59,360
-and let him use it, he figures if
-Tony's running against the Mayor
+212
+00:13:42,406 --> 00:13:44,908
+He figures if Tony's
+running against the mayor,
 
-229
-00:14:59,398 --> 00:15:01,360
-he'll take aim at Royce
-and not the department.
+213
+00:13:44,992 --> 00:13:46,994
+he'll aim at Royce, not the department.
 
-230
-00:15:01,389 --> 00:15:02,983
-We may want to bring
-Tony in on it
+214
+00:13:47,077 --> 00:13:50,372
+You may want to bring Tony in on it,
+keep him viable against the mayor.
 
-231
-00:15:03,015 --> 00:15:04,626
-keep him viable
-against the Mayor.
+215
+00:13:50,664 --> 00:13:53,875
+But you need to find out
+what this is all about. First-hand.
 
-232
-00:15:04,784 --> 00:15:07,283
-But right now, you need to find
-out what this is all about.
+216
+00:13:53,959 --> 00:13:57,587
+- Do you know this major Colvin?
+- To shake hands, maybe.
 
-233
-00:15:07,311 --> 00:15:09,570
-Firsthand... do you know
-this, Major Colvin?
+217
+00:13:58,296 --> 00:14:00,424
+If burrell's painting him the villain,
 
-234
-00:15:10,044 --> 00:15:12,160
-To shake hands, maybe.
+218
+00:14:00,507 --> 00:14:03,427
+Colvin might be anxious
+to tell his side of the story.
 
-235
-00:15:12,366 --> 00:15:14,419
-If Burrell's painting
-him the villain
+219
+00:14:13,145 --> 00:14:15,063
+Mcnulty, major crimes.
 
-236
-00:15:14,593 --> 00:15:17,389
-Colvin might be anxious to tell
-someone his side of the story.
-
-237
-00:15:27,245 --> 00:15:29,535
-McNulty, Major Crimes.
-
-238
-00:15:29,677 --> 00:15:32,473
+220
+00:14:15,605 --> 00:14:17,441
 Sullivan, minor irritations.
 
-239
-00:15:33,547 --> 00:15:36,438
-You got anything back there that's like
-the old C.F.I.D. but digital?
+221
+00:14:19,443 --> 00:14:23,613
+You got anything that's like a cfid,
+but digital? For catching cell numbers.
 
-240
-00:15:36,627 --> 00:15:38,934
-- For catching cell numbers?
+222
+00:14:23,697 --> 00:14:26,533
 - Catching who?
+- A triggerfish machine.
 
-241
-00:15:39,059 --> 00:15:40,908
-You know, a triggerfish machine.
-
-242
-00:15:42,408 --> 00:15:45,789
+223
+00:14:28,285 --> 00:14:30,954
 Triggerfish. For cell numbers.
 
-243
-00:15:48,426 --> 00:15:50,669
-How 'bout I look around
-there on my own?
+224
+00:14:34,332 --> 00:14:36,960
+How about I look around there on my own?
 
-244
-00:16:04,916 --> 00:16:07,021
-Yes, this is Councilman
-Carcetti over at the Hall.
+225
+00:14:50,891 --> 00:14:52,809
+This is councilman carcetti at the hall.
 
-245
-00:16:07,050 --> 00:16:08,411
-I'm trying to reach Major Colvin.
+226
+00:14:52,976 --> 00:14:55,896
+- I'm trying to reach major Colvin.
+- He's on vacation.
 
-246
-00:16:08,430 --> 00:16:09,976
-<i>I'm sorry, but
-he's on vacation. </i>
+227
+00:14:55,979 --> 00:14:58,565
+I'm trying to reach him
+on municipal business.
 
-247
-00:16:10,050 --> 00:16:13,007
-I'm aware of that, but I'm trying to
-reach him on municipal business...
+228
+00:14:58,648 --> 00:15:00,567
+I can put you through to his voicemail.
 
-248
-00:16:13,035 --> 00:16:15,045
-<i>Well, I could put you
-through to his voice mail. </i>
+229
+00:15:00,650 --> 00:15:03,111
+No, I said I have to reach him immediately.
 
-249
-00:16:15,064 --> 00:16:17,824
-No, not his voice mail. I said I have
-to reach him immediately...
+230
+00:15:03,195 --> 00:15:05,030
+- Immediately?
+- Right.
 
-250
-00:16:17,837 --> 00:16:19,044
-- <i>Immediately?</i>
-- Right...
+231
+00:15:05,113 --> 00:15:08,617
+- How about his cell phone?
+- His cell? Yeah, that would be fine.
 
-251
-00:16:19,063 --> 00:16:21,538
-- <i>How about his cell phone?</i>
-- His cell, it'll be fine...
+232
+00:15:16,374 --> 00:15:18,376
+All right, that's enough.
 
-252
-00:16:21,633 --> 00:16:23,923
-<i>Alright. Four-oh... </i>
-
-253
-00:16:30,455 --> 00:16:32,761
-Alright, that's enough.
-
-254
-00:16:34,451 --> 00:16:36,394
+233
+00:15:20,504 --> 00:15:22,297
 Yeah, I know, it hurts.
 
-255
-00:16:36,504 --> 00:16:39,490
-But your fists gonna
-be like rocks after awhile.
+234
+00:15:22,380 --> 00:15:25,258
+But your fists
+gonna be like rocks after a while.
 
-256
-00:16:43,422 --> 00:16:45,713
-Justin, c'mere.
+235
+00:15:29,346 --> 00:15:31,348
+Justin, come here.
 
-257
-00:16:47,624 --> 00:16:50,009
-- Alright.
-- I want you to push me on my chest.
+236
+00:15:33,558 --> 00:15:37,521
+All right, I want you to push me in
+my chest. You ain't got to do it hard.
 
-258
-00:16:50,104 --> 00:16:52,031
-You ain't got to do it hard.
+237
+00:15:41,233 --> 00:15:44,236
+- That's how you were standing.
+- No weight on your back foot.
 
-259
-00:16:55,348 --> 00:16:56,848
-That's how you was standin'.
+238
+00:15:44,319 --> 00:15:46,613
+That's right. No center of gravity.
 
-260
-00:16:56,896 --> 00:16:58,721
-You ain't have no weight
-on your back foot.
+239
+00:15:46,696 --> 00:15:49,116
+Plus, if you get your stance right,
 
-261
-00:16:58,740 --> 00:16:59,312
-That's right.
-
-262
-00:16:59,344 --> 00:17:03,230
-No center of gravity.
-Plus, if you get your stance right...
-
-263
-00:17:03,324 --> 00:17:05,709
+240
+00:15:49,199 --> 00:15:51,618
 then you got the means
 to put your hip into the punch.
 
-264
-00:17:05,788 --> 00:17:08,173
-Bub-bub, right?
-Bub-bub.
+241
+00:15:51,701 --> 00:15:53,662
+Bah-bah. Right? Bah-bah.
 
-265
-00:17:08,268 --> 00:17:09,895
-That's where your power come from.
+242
+00:15:53,745 --> 00:15:56,540
+- That's where your power'll come from.
+- Yeah.
 
-266
-00:17:09,974 --> 00:17:12,249
-Yeah, but what happened
-when we get hit?
+243
+00:15:56,623 --> 00:15:58,250
+What happen when we get hit?
 
-267
-00:17:12,328 --> 00:17:14,634
+244
+00:15:58,333 --> 00:16:02,629
 - Say what?
-- We get hit
+- We get hit, even with this pad,
 
-268
-00:17:14,713 --> 00:17:18,220
-even with this pad,
+245
+00:16:02,712 --> 00:16:04,506
 you gonna get trucked.
 
-269
-00:17:18,567 --> 00:17:20,478
-All this stuff fallin' apart.
+246
+00:16:04,589 --> 00:16:08,218
+- All this stuff falling apart.
+- Yeah, the heavy bag too.
 
-270
-00:17:20,588 --> 00:17:22,310
-Yeah, the heavy bag, too.
-
-271
-00:17:22,405 --> 00:17:23,906
+247
+00:16:08,301 --> 00:16:11,429
 Yeah, where you get this stuff at?
+The town of bedrock?
 
-272
-00:17:24,079 --> 00:17:25,549
-The Town of Bedrock?
+248
+00:16:13,431 --> 00:16:16,059
+Nah, he say nobody.
+So you gonna have to wait.
 
-273
-00:17:27,428 --> 00:17:29,971
-Naw, he said nobody. So you
-gonna have to wait right here.
-
-274
-00:17:30,018 --> 00:17:32,577
-What you mean wait right here?
+249
+00:16:16,143 --> 00:16:19,062
+What you mean, wait?
 You know who I am, boy?
 
-275
-00:17:34,347 --> 00:17:36,195
-Man say he want
-to see Avon...
+250
+00:16:20,355 --> 00:16:23,567
+- Man say he want to see avon.
+- Making me wait to see my partner.
 
-276
-00:17:36,196 --> 00:17:37,933
-Makin' me wait
-to see my own partner?
-
-277
-00:17:37,996 --> 00:17:39,923
-- He new, String.
+251
+00:16:23,733 --> 00:16:26,027
+- He new, string.
 - Fuck that.
 
-278
-00:17:40,049 --> 00:17:43,382
-Lotta new faces round here, man...
+252
+00:16:26,111 --> 00:16:30,157
+Lot of new faces round here, man.
 Way too many, you ask me.
 
-279
-00:17:44,362 --> 00:17:46,099
+253
+00:16:30,240 --> 00:16:32,242
 Get the fuck out of here.
 
-280
-00:17:50,253 --> 00:17:53,539
-- Where Avon at?
+254
+00:16:36,246 --> 00:16:39,249
+- Where avon at?
 - He'll be along shortly.
 
-281
-00:17:53,933 --> 00:17:56,429
-That's good 'cause
-I came to see you, anyway.
+255
+00:16:39,374 --> 00:16:42,377
+That's good,
+'cause I came to see you, anyway.
 
-282
-00:17:56,619 --> 00:17:58,246
+256
+00:16:42,460 --> 00:16:44,462
 What you need?
 
-283
-00:18:06,696 --> 00:18:08,528
+257
+00:16:52,679 --> 00:16:54,472
 I need you to hit somebody.
 
-284
-00:18:08,749 --> 00:18:10,281
-Who we hittin'?
+258
+00:16:54,556 --> 00:16:56,892
+Who we hitting?
 
-285
-00:18:11,024 --> 00:18:13,930
+259
+00:16:56,975 --> 00:16:59,561
 - Clay Davis.
 - The Clay Davis?
 
-286
-00:18:14,167 --> 00:18:15,635
+260
+00:16:59,728 --> 00:17:01,646
 Downtown Clay Davis?
 
-287
-00:18:15,663 --> 00:18:17,682
-That suppose to mean
-somethin' to me, man?
+261
+00:17:01,730 --> 00:17:03,857
+Is that suppose to mean
+something to me, man?
 
-288
-00:18:18,005 --> 00:18:21,038
+262
+00:17:03,940 --> 00:17:07,194
 - That nigger need to be got.
-- Shit, String, murder ain't no thing.
+- Shit, string, murder ain't no thing.
 
-289
-00:18:21,386 --> 00:18:23,440
-But this here is some
-assassination shit...
+263
+00:17:07,277 --> 00:17:09,196
+But this here is some assassination shit.
 
-290
-00:18:23,487 --> 00:18:25,841
-Look, I tell you you gettin'
-somebody, you getting him.
+264
+00:17:09,279 --> 00:17:12,240
+I tell you you getting somebody,
+you getting him.
 
-291
-00:18:25,849 --> 00:18:27,915
-- I ain't askin'.
-- Damn, String, I don't know...
+265
+00:17:12,324 --> 00:17:13,617
+Damn, string, I don't know...
 
-292
-00:18:27,934 --> 00:18:30,422
-Nigger, I got to remind you
-who the fuck you work for?!
+266
+00:17:13,742 --> 00:17:16,286
+I got to remind you
+who the fuck you work for?
 
-293
-00:18:30,469 --> 00:18:34,449
-Hey, yo. I think Slim gonna have
+267
+00:17:16,369 --> 00:17:20,457
+Hey, yo. I think slim gonna have
 to sit this one out, boss.
 
-294
-00:18:35,792 --> 00:18:38,777
-So you gonna hit a
-state senator now, huh?
+268
+00:17:21,750 --> 00:17:24,336
+So you finna go hit a state senator now?
 
-295
-00:18:39,788 --> 00:18:43,131
-Yo, you kill a downtown nigger
-like that the whole world
+269
+00:17:25,754 --> 00:17:28,340
+Dawg, you kill a downtown nigger like that,
 
-296
-00:18:43,132 --> 00:18:44,748
+270
+00:17:28,423 --> 00:17:31,301
+the whole world
 gonna stand up and take notice.
 
-297
-00:18:45,948 --> 00:18:51,461
+271
+00:17:31,760 --> 00:17:36,806
 I'm talking about the state police,
 federals, all of that.
 
-298
-00:18:52,677 --> 00:18:54,645
-You need a day-of-the-jackal
-type motherfucker
+272
+00:17:38,516 --> 00:17:41,978
+You need a day of the jackal
+type motherfucker for that shit,
 
-299
-00:18:54,646 --> 00:18:56,205
-basically to do
-some shit like that.
-
-300
-00:18:56,224 --> 00:18:57,895
-Not a rough and tumble
-nigga like Slim.
-
-301
-00:18:57,914 --> 00:19:00,654
+273
+00:17:42,062 --> 00:17:45,440
+- not a rumble-tumble nigger like slim.
 - That nigger took our money, man.
-- I seen it comin'.
 
-302
-00:19:00,764 --> 00:19:03,339
-Well. He got to go.
+274
+00:17:45,523 --> 00:17:49,361
+- I seen it coming.
+- Well, he got to go.
 
-303
-00:19:03,433 --> 00:19:06,356
-Naw, you a fucking businessman.
-You'd wanna handle it like that.
+275
+00:17:49,444 --> 00:17:52,155
+You a fucking businessman.
+Handle it like that.
 
-304
-00:19:06,387 --> 00:19:09,269
-You don't wanna get all gangster
-wild with it an' shit, right?
+276
+00:17:52,239 --> 00:17:55,909
+You don't wanna get all gangster wild
+with it and shit, right?
 
-305
-00:19:11,173 --> 00:19:13,890
-What I tell you bout playin'
+277
+00:17:56,993 --> 00:17:59,996
+What I tell you about playing
 them fucking away games?
 
-306
-00:19:18,188 --> 00:19:19,012
-Yeah.
+278
+00:18:04,125 --> 00:18:08,880
+Yeah. They saw your ghetto ass
+coming from miles away, nigger.
 
-307
-00:19:20,051 --> 00:19:23,953
-They saw your ghetto ass
-comin' from miles away, nigger.
-
-308
-00:19:24,427 --> 00:19:28,439
+279
+00:18:10,340 --> 00:18:14,844
 You got a fucking beef with them?
 That shit is on you.
 
-309
-00:19:33,525 --> 00:19:37,505
-So... we aim this
-at the nearest celltower
+280
+00:18:19,516 --> 00:18:23,937
+So, we aim this at the nearest cell tower,
 
-310
-00:19:38,152 --> 00:19:40,348
-the one that would
-be the conduit for calls
+281
+00:18:24,020 --> 00:18:28,525
+the one that would be the conduit for calls
+coming to and from our boy, bell...
 
-311
-00:19:40,349 --> 00:19:42,537
-coming to and from our boy, Bell.
+282
+00:18:30,360 --> 00:18:33,571
+And... we let rip.
 
-312
-00:19:44,455 --> 00:19:45,655
-And...
-
-313
-00:19:46,366 --> 00:19:48,514
-we let rip.
-
-314
-00:19:50,252 --> 00:19:52,084
+283
+00:18:36,324 --> 00:18:38,034
 Fucking hell.
 
-315
-00:19:52,258 --> 00:19:55,038
-Look's like Baltimore white pages,
+284
+00:18:38,118 --> 00:18:41,037
+Looks like Baltimore white pages
 without any names.
 
-316
-00:19:55,227 --> 00:19:57,518
-But the pattern trace
-will pull that down.
+285
+00:18:41,121 --> 00:18:43,415
+But the pattern tracer'll pull that down.
 
-317
-00:19:57,980 --> 00:20:00,327
-You know, if we know the approximate
-time of Bell's call
+286
+00:18:43,581 --> 00:18:45,875
+If we know
+the approximate time of bell's call,
 
-318
-00:20:00,356 --> 00:20:03,041
-we can start just by pulling calls
-off that tower, at that time.
+287
+00:18:45,959 --> 00:18:48,503
+we could start by pulling calls
+off that tower at that time.
 
-319
-00:20:03,060 --> 00:20:04,215
+288
+00:18:48,586 --> 00:18:50,588
 That could be thousands.
 
-320
-00:20:04,768 --> 00:20:07,169
-Yeah, that's the baseline,
-but we get a second hit
+289
+00:18:50,672 --> 00:18:54,843
+Yeah, but we get a second hit
+and that list comes down to dozens.
 
-321
-00:20:07,263 --> 00:20:10,313
-- and that list comes down to dozens.
+290
+00:18:54,926 --> 00:18:57,721
 - And after a third or fourth...
+- We've got his number.
 
-322
-00:20:10,341 --> 00:20:11,639
-then we've got his number.
+291
+00:18:57,804 --> 00:19:02,142
+I can't believe that this was
+just sitting over at isd, gathering dust.
 
-323
-00:20:11,876 --> 00:20:15,919
-I can't believe that this was just
-sitting over at I.S.D. gathering dust.
+292
+00:19:02,392 --> 00:19:04,477
+We're going to be on them for real now.
 
-324
-00:20:16,582 --> 00:20:19,181
-We're going to be on these
-motherfuckers for real now, Lester.
+293
+00:19:04,561 --> 00:19:07,397
+Well, they don't know
+about this technology yet.
 
-325
-00:20:19,200 --> 00:20:21,495
-They don't know about
-this technology yet.
+294
+00:19:07,480 --> 00:19:10,859
+- For once they can't change and adjust.
+- It's genius.
 
-326
-00:20:21,589 --> 00:20:23,564
-For once they can't
-change and adjust.
+295
+00:19:16,448 --> 00:19:19,242
+Oh happy day
 
-327
-00:20:23,785 --> 00:20:24,938
-It's genius.
+296
+00:19:20,577 --> 00:19:23,079
+oh happy day
 
-328
-00:20:34,589 --> 00:20:36,311
-Oh, happy day
+297
+00:19:24,247 --> 00:19:26,958
+when Jesus washed
 
-329
-00:20:38,127 --> 00:20:40,086
-when jesus washed
+298
+00:19:28,460 --> 00:19:31,212
+when Jesus washed
 
-330
-00:20:42,629 --> 00:20:45,472
-oh when he washed
+299
+00:19:32,464 --> 00:19:35,508
+he washed my sins away
 
-331
-00:20:46,704 --> 00:20:49,610
-he washed my sins away.
+300
+00:19:37,177 --> 00:19:38,636
+need something?
 
-332
-00:20:51,221 --> 00:20:52,643
-You need something?
+301
+00:19:38,928 --> 00:19:41,348
+- How much you make, man?
+- What?
 
-333
-00:20:53,054 --> 00:20:54,570
-How much you make?
+302
+00:19:42,307 --> 00:19:44,976
+On them ts? How much you make?
 
-334
-00:20:54,728 --> 00:20:56,150
-What?
+303
+00:19:46,436 --> 00:19:48,897
+Fair profit. No more than that.
 
-335
-00:20:56,434 --> 00:20:58,614
-On them tees?
-How much you make?
+304
+00:19:51,107 --> 00:19:55,320
+You should sell sweats with hoodies.
+Since the season's changing and all.
 
-336
-00:21:00,541 --> 00:21:03,226
-A fair profit.
-No more than that.
-
-337
-00:21:05,232 --> 00:21:07,149
-You should probably sell
-sweats with hoodys.
-
-338
-00:21:07,167 --> 00:21:08,792
-Since the seasons changin' an' all.
-
-339
-00:21:11,645 --> 00:21:13,903
+305
+00:19:57,572 --> 00:19:59,532
 Where you live at?
 
-340
-00:21:19,890 --> 00:21:21,986
-<i>Yellow Tops, Yellow Tops,
-got them Yellow Tops. </i>
+306
+00:20:07,290 --> 00:20:10,168
+- Bodie broadus.
+- The man with the hands.
 
-341
-00:21:22,014 --> 00:21:22,974
-Bodie Broadus.
+307
+00:20:11,419 --> 00:20:13,880
+I heard you was opening up a gym
+or something.
 
-342
-00:21:23,003 --> 00:21:24,054
-The man with the hands.
+308
+00:20:13,963 --> 00:20:15,423
+Yeah, trying to.
 
-343
-00:21:25,465 --> 00:21:27,961
-I heard was, um, openin' up
-a gym or somethin'.
-
-344
-00:21:28,056 --> 00:21:31,563
-Yeah, tryin' to.
-I'm lookin' to get up with Avon.
-
-345
-00:21:32,163 --> 00:21:34,927
+309
+00:20:15,507 --> 00:20:19,135
+- I'm looking to get up with avon.
 - Thought you was out.
-- Man, that's why I'm came to you.
 
-346
-00:21:35,119 --> 00:21:36,941
-I mean, I feel like
-the way we left it
+310
+00:20:19,219 --> 00:20:20,887
+Hey, man, that's why I came to you.
 
-347
-00:21:36,988 --> 00:21:38,875
-I can't just roll up
-on the man, you know?
+311
+00:20:21,054 --> 00:20:25,141
+I mean, I feel like the way we left it,
+I can't just roll up on the man, you know?
 
-348
-00:21:46,505 --> 00:21:49,869
-hey, yo, it's me.
+312
+00:20:32,482 --> 00:20:35,610
+Hey, yo, it's me.
 Yo, I got that hitter here with me.
 
-349
-00:21:50,248 --> 00:21:52,207
-Yeah, the soldier
-that walked in and out.
+313
+00:20:35,693 --> 00:20:37,946
+Yeah, the soldier that walked in and out.
 
-350
-00:21:52,365 --> 00:21:54,371
-Yeah, he want to see the top man.
+314
+00:20:38,029 --> 00:20:39,989
+He want to see the top man.
 
-351
-00:21:56,993 --> 00:21:59,757
-You slam shit like that
+315
+00:20:42,992 --> 00:20:45,995
+You slam shit like that,
 you gonna fall out one day.
 
-352
-00:22:01,794 --> 00:22:03,153
+316
+00:20:47,705 --> 00:20:49,332
 I'm good.
 
-353
-00:22:04,227 --> 00:22:06,360
-I'm tryin' to school you, boy
-
-354
-00:22:06,407 --> 00:22:08,618
+317
+00:20:50,250 --> 00:20:54,003
+I'm trying to school you, boy,
 and you just don't wanna know.
 
-355
-00:22:13,025 --> 00:22:15,552
-I'm cool, Huck.
-I'm good.
+318
+00:20:59,134 --> 00:21:01,928
+I'm cool. I'm good.
 
-356
-00:22:26,121 --> 00:22:29,012
-<i>Whitey sale,
-whitey sale. </i>
+319
+00:21:02,011 --> 00:21:07,142
+Whitey sale,
+whitey sale. One for three, three for five.
 
-357
-00:22:29,170 --> 00:22:31,334
-One for three,
-three for five.
+320
+00:21:07,225 --> 00:21:08,643
+Whitey sale.
 
-358
-00:22:40,223 --> 00:22:43,152
-<i>Whitey sale, whitey sale. </i>
+321
+00:21:12,313 --> 00:21:16,651
+Whitey sale, whitey sale, whitey
+sale, here. One for three, three for five.
 
-359
-00:22:46,249 --> 00:22:48,206
-<i>Whitey sale, whitey sale!</i>
+322
+00:21:41,468 --> 00:21:43,720
+So what you want me to tell the man?
 
-360
-00:22:55,523 --> 00:22:57,852
-<i>Alright, so what you
-want me to tell the man?</i>
+323
+00:21:43,970 --> 00:21:46,473
+Yo, I'll give word up,
+then I'll hit you back.
 
-361
-00:22:58,023 --> 00:23:00,452
-<i>Yo, I'll give word up
-and then I'll hit you back. </i>
-
-362
-00:23:00,495 --> 00:23:02,566
+324
+00:21:46,556 --> 00:21:48,600
 Shamrock.
 
-363
-00:23:03,009 --> 00:23:04,866
-4:40 P.M.
+325
+00:21:48,683 --> 00:21:50,685
+4:40pm.
 
-364
-00:23:22,895 --> 00:23:24,723
-B- and-B enterprises...
+326
+00:22:08,745 --> 00:22:12,165
+- B&b enterprises.
+- We need to have lunch.
 
-365
-00:23:24,809 --> 00:23:28,952
-- <i>We need to have lunch. </i>
-- Alright, hold on, I'll call you back.
+327
+00:22:12,248 --> 00:22:14,542
+All right, hold on. I'll call you back.
 
-366
-00:23:57,081 --> 00:23:59,366
+328
+00:22:42,946 --> 00:22:44,989
 - Yo.
-- <i>It's me. </i>
+- Hey, it's me.
 
-367
-00:23:59,452 --> 00:24:00,909
-It's good.
+329
+00:22:45,281 --> 00:22:46,741
+What's good?
 
-368
-00:24:04,881 --> 00:24:06,309
+330
+00:22:50,787 --> 00:22:52,121
 Yeah, it's me.
 
-369
-00:24:06,466 --> 00:24:09,109
-<i>Yo, tell the hitter, tell him
-the tall man pick him up. </i>
+331
+00:22:52,372 --> 00:22:55,416
+Yo, tell the hitter,
+tell him the tall man will pick him up.
 
-370
-00:24:09,566 --> 00:24:11,266
-- <i>Right. </i>
+332
+00:22:55,500 --> 00:22:57,210
+- Right.
 - 4:47.
 
-371
-00:24:11,338 --> 00:24:13,452
-A seven minute window.
+333
+00:22:57,293 --> 00:22:58,962
+Seven-minute window.
 
-372
-00:24:16,266 --> 00:24:19,866
+334
+00:23:02,257 --> 00:23:04,175
 There's 892 phone numbers.
-That's our baseline.
 
-373
-00:24:19,981 --> 00:24:22,366
-- We're on our way.
-- Yep.
+335
+00:23:04,259 --> 00:23:07,470
+- That's our base line. We're on our way.
+- Yeah.
 
-374
-00:24:37,009 --> 00:24:39,052
+336
+00:23:22,986 --> 00:23:24,112
 Stay the fuck there, man.
 
-375
-00:24:47,366 --> 00:24:48,053
-Yo.
-
-376
-00:24:58,266 --> 00:25:01,366
+337
+00:23:44,173 --> 00:23:46,884
 Jimmy! On the clean phone.
 
-377
-00:25:01,823 --> 00:25:04,152
+338
+00:23:48,261 --> 00:23:52,348
 He just hit your friend's number.
+The one off the business card you gave me.
 
-378
-00:25:04,181 --> 00:25:06,895
-The one off the business
-card you gave me.
-
-379
-00:25:08,166 --> 00:25:11,052
-- The Western?
+339
+00:23:54,142 --> 00:23:56,894
+- The western?
 - His cell.
 
-380
-00:25:14,266 --> 00:25:16,881
-Should we be worried
-about this?
+340
+00:24:00,189 --> 00:24:02,275
+Should we be worried about this?
 
-381
-00:25:18,309 --> 00:25:18,986
-Naw.
-
-382
-00:25:20,409 --> 00:25:23,581
+341
+00:24:06,070 --> 00:24:09,449
 - A boxing gym, huh?
-- It ain't a proper one yet.
+- Ain't a proper one yet.
 
-383
-00:25:23,652 --> 00:25:25,523
-Why I asked to see you.
+342
+00:24:09,532 --> 00:24:12,285
+That's why I asked to see you.
 
-384
-00:25:26,623 --> 00:25:29,099
-So, what you know about takin'care
-of something like that?
+343
+00:24:12,368 --> 00:24:14,996
+What you know
+about taking care of something like that?
 
-385
-00:25:29,152 --> 00:25:32,666
+344
+00:24:15,079 --> 00:24:18,458
 Not a damn thing.
 But I know that sweet science.
 
-386
-00:25:32,766 --> 00:25:34,438
-And I got some kids
-who are interested.
+345
+00:24:18,541 --> 00:24:20,376
+And I got some kids who are interested.
 
-387
-00:25:34,481 --> 00:25:37,695
-What I got a need for,
-bro, is equipment.
+346
+00:24:20,460 --> 00:24:23,963
+But what I got a need for, bro,
+is equipment.
 
-388
-00:25:38,209 --> 00:25:40,581
-Man, these kids
-gonna get rained on.
+347
+00:24:24,047 --> 00:24:26,132
+Man, these kids gonna get rained on.
 
-389
-00:25:40,652 --> 00:25:43,961
+348
+00:24:26,215 --> 00:24:30,053
 They need headgear,
-they need guards, cups
+they need guards, cups,
 
-390
-00:25:44,403 --> 00:25:45,990
-you know, so they
-can take the hit.
+349
+00:24:30,136 --> 00:24:31,888
+so they can take the hit.
 
-391
-00:25:46,023 --> 00:25:47,838
-Shoot, you know what
-I'm sayin', man.
+350
+00:24:31,971 --> 00:24:33,848
+You know what I'm saying, man.
 
-392
-00:25:47,881 --> 00:25:50,409
-I seen your picture on them
+351
+00:24:33,931 --> 00:24:36,309
+I seen you on them
 globe posters back in the day.
 
-393
-00:25:50,509 --> 00:25:52,323
-Undercard shit, maybe, you know.
+352
+00:24:36,392 --> 00:24:40,229
+- Little undercard shit.
+- Yeah, but still, you was golden gloves.
 
-394
-00:25:52,438 --> 00:25:54,652
-Yeah, but still,
-you was golden gloves.
+353
+00:24:40,396 --> 00:24:43,900
+For a minute, but I had a physical defect.
 
-395
-00:25:54,766 --> 00:25:58,109
-For a minute.
-But I had a physical defect.
-
-396
-00:25:58,323 --> 00:26:00,095
-What, you had a glass jaw?
-
-397
-00:26:00,166 --> 00:26:04,266
+354
+00:24:43,983 --> 00:24:47,987
+- What, you got a glass jaw?
 - Nah, forehead, nigger.
+
+355
+00:24:48,071 --> 00:24:52,158
 - Cranium shot'll do you wrong.
+- Yo, look here, man.
 
-398
-00:26:04,323 --> 00:26:06,495
-Yeah, look here, man.
+356
+00:24:52,241 --> 00:24:56,162
+You see the new heavy bags?
+Look, freestanding, man.
 
-399
-00:26:06,538 --> 00:26:10,581
-You seen new heavy bags?
-Look, freestandin', man.
-
-400
-00:26:10,652 --> 00:26:12,464
+357
+00:24:56,245 --> 00:24:58,956
 All you gotta do is add water.
 
-401
-00:26:12,465 --> 00:26:16,495
+358
+00:24:59,040 --> 00:25:02,293
 Then you got speed bags,
 right there, right?
 
-402
-00:26:16,581 --> 00:26:18,923
-You got this headgear
-right here. It's new.
+359
+00:25:02,377 --> 00:25:05,046
+You got this headgear right here. It's new.
 
-403
-00:26:19,225 --> 00:26:21,738
-Look, protect the cheek
-and the chin.
+360
+00:25:05,129 --> 00:25:09,008
+Look, protect the cheek and the chin,
+you know?
 
-404
-00:26:21,795 --> 00:26:22,526
-You know.
-
-405
-00:26:23,095 --> 00:26:27,181
+361
+00:25:09,092 --> 00:25:13,096
 And I know I can go around and
-collect a dollar here, dollar there.
+collect a dollar here and a dollar there.
 
-406
-00:26:27,223 --> 00:26:30,023
+362
+00:25:13,179 --> 00:25:15,973
 But I'm trying to put together
-a select group of people, right?
+a select group of people.
 
-407
-00:26:30,081 --> 00:26:33,238
-I call them my,
-my gold circle club
+363
+00:25:16,057 --> 00:25:18,935
+I call them my gold circle club,
 
-408
-00:26:33,409 --> 00:26:35,995
+364
+00:25:19,018 --> 00:25:21,979
 and they gonna make
 a substantial contribution
 
-409
-00:26:35,996 --> 00:26:38,395
-and just get
-this thing rollin' right.
+365
+00:25:22,063 --> 00:25:24,273
+and just get this thing rolling right.
 
-410
-00:26:38,666 --> 00:26:42,995
-I mean, I'm gonna put their name and
-picture up on the wall in the gym.
+366
+00:25:24,357 --> 00:25:29,028
+I mean, I'm gonna put their name
+and picture up on the wall in the gym.
 
-411
-00:26:43,595 --> 00:26:45,938
-What you tryin' to get
-me to join a club?
+367
+00:25:29,112 --> 00:25:33,408
+- You trying to get me to join a club?
+- No, man, I'm just saying.
 
-412
-00:26:46,038 --> 00:26:47,538
-Naw, man, I'm just sayin'.
-
-413
-00:26:47,609 --> 00:26:49,663
+368
+00:25:33,491 --> 00:25:35,284
 There's all sorts of levels.
 
-414
-00:26:49,664 --> 00:26:52,866
-We got the, the silver club,
+369
+00:25:35,368 --> 00:25:38,913
+We got the silver club,
 we got the bronze club.
 
-415
-00:26:52,909 --> 00:26:56,881
-Man, for motherfuckers who really
-don't want to dig that deep.
+370
+00:25:38,996 --> 00:25:42,750
+Man, for motherfuckers
+who really don't want to dig that deep.
 
-416
-00:26:56,995 --> 00:26:58,323
-Come on, man, check it out.
+371
+00:25:42,959 --> 00:25:45,128
+- Come on, man, check it out.
+- No, man.
 
-417
-00:26:58,738 --> 00:27:01,181
-Nah, man, I ain't got no time
-for this bullshit, man.
+372
+00:25:45,211 --> 00:25:47,547
+I ain't got no time for this bullshit, man.
 
-418
-00:27:01,566 --> 00:27:03,667
-You know I don't want
-my fucking name and face
+373
+00:25:47,630 --> 00:25:51,968
+I don't want my fucking name and face
+on no damn wall. You crazy, nigger?
 
-419
-00:27:03,686 --> 00:27:05,581
-on no damn wall.
-You crazy, nigger?
+374
+00:25:52,051 --> 00:25:54,178
+How much money you talking about?
 
-420
-00:27:06,138 --> 00:27:08,238
-How much money you talkin' about?
+375
+00:25:58,015 --> 00:25:59,350
+10,000.
 
-421
-00:27:12,195 --> 00:27:13,838
-$10,000.
+376
+00:26:05,815 --> 00:26:08,776
+See him go through all that for 10,000?
 
-422
-00:27:19,938 --> 00:27:22,723
-I see you go through
-all that for 10,000?
+377
+00:26:09,026 --> 00:26:12,488
+Man, slim, go get him 15,000 cash, man.
 
-423
-00:27:23,166 --> 00:27:27,066
-Man, slim, go get him $15,000 cash.
-
-424
-00:27:27,895 --> 00:27:28,483
-Yo.
-
-425
-00:27:29,507 --> 00:27:30,217
+378
+00:26:15,491 --> 00:26:17,243
 Shit.
 
-426
-00:27:31,323 --> 00:27:32,093
-A- ight, then.
+379
+00:26:17,326 --> 00:26:20,246
+All right. Later, man.
+You take care of them little niggers.
 
-427
-00:27:32,112 --> 00:27:34,366
-Hey, you take care
-of them little niggas, hear?
-
-428
-00:27:34,395 --> 00:27:36,895
+380
+00:26:20,329 --> 00:26:21,664
 No doubt, bro.
 
-429
-00:27:58,181 --> 00:28:02,523
-- Yeah. Yo, you talk to him?
-- <i>Fat man wanna parlay. </i>
+381
+00:26:43,519 --> 00:26:46,689
+- Yeah.
+- Yo, you talk to him?
 
-430
-00:28:04,409 --> 00:28:08,138
-- Alright, you good, hook me up.
-- <i>Yeah, a-ight. </i>
+382
+00:26:46,773 --> 00:26:48,691
+Fat man wanna parlay.
 
-431
-00:28:37,895 --> 00:28:40,009
+383
+00:26:50,318 --> 00:26:53,863
+- All right, you good. Hook me up.
+- Yeah, all right.
+
+384
+00:27:23,684 --> 00:27:26,062
 You check out what I sent you?
 
-432
-00:28:43,323 --> 00:28:45,381
-Yeah, your information was good.
+385
+00:27:29,232 --> 00:27:31,734
+Yeah, your information's good.
 
-433
-00:28:46,638 --> 00:28:49,095
-So, we can talk on the
-real side now, huh?
+386
+00:27:32,443 --> 00:27:35,196
+So, we can talk on the real side now, huh?
 
-434
-00:28:56,438 --> 00:28:58,340
-<i>Tell your man
-I'm good for tomorrow. </i>
+387
+00:27:42,411 --> 00:27:45,790
+- Tell your man I'm good for tomorrow.
+- Yo, I'll hit you back.
 
-435
-00:28:58,631 --> 00:28:59,738
-<i>Yo, I'll hit you back. </i>
-
-436
-00:28:59,838 --> 00:29:02,695
+388
+00:27:45,873 --> 00:27:48,751
 - Now we're cooking.
 - Cutting butter with a hot knife.
 
-437
-00:29:02,738 --> 00:29:06,295
-Next time Stringer Bell takes a
-call off the baseline he's ours.
+389
+00:27:48,835 --> 00:27:52,255
+Next time stringer bell
+takes a call off the base line, he's ours.
 
-438
-00:29:06,395 --> 00:29:07,838
-Game over.
+390
+00:27:52,338 --> 00:27:53,756
+- Game over.
+- Mm-hm.
 
-439
-00:29:12,230 --> 00:29:14,508
-So, it ain't what
-it might seem to you.
+391
+00:27:58,219 --> 00:28:00,888
+So, it ain't what it might seem to you.
 
-440
-00:29:15,200 --> 00:29:16,925
-That man there
-is my brother.
+392
+00:28:01,097 --> 00:28:03,140
+That man there is my brother.
 
-441
-00:29:18,567 --> 00:29:20,561
-But if it keep on
-like it been, then...
+393
+00:28:04,433 --> 00:28:06,477
+But if it keep on like it been, then...
 
-442
-00:29:25,311 --> 00:29:26,226
+394
+00:28:09,021 --> 00:28:10,106
+Fuck.
+
+395
+00:28:11,357 --> 00:28:12,441
 You got problems?
 
-443
-00:29:26,472 --> 00:29:29,146
+396
+00:28:12,525 --> 00:28:16,070
 I stirred up some shit
-with this Hampsterdam mess.
+with this hamsterdam mess.
 
-444
-00:29:30,402 --> 00:29:32,208
-That's 'cause
-you was behind that
+397
+00:28:16,153 --> 00:28:18,239
+That's 'cause you was behind that
 
-445
-00:29:32,419 --> 00:29:34,155
-that made me come
-to you with this.
+398
+00:28:18,322 --> 00:28:21,534
+that made me come to you with this.
 
-446
-00:29:36,931 --> 00:29:39,793
-Look like you and me both tryin'
-to make sense of this game.
+399
+00:28:22,869 --> 00:28:25,872
+Look like you and me
+both trying to make sense of this game.
 
-447
-00:29:43,030 --> 00:29:44,403
+400
+00:28:28,875 --> 00:28:30,585
 Speak your mind, Russell.
 
-448
-00:29:56,433 --> 00:29:57,277
+401
+00:28:42,305 --> 00:28:44,557
 You two good?
 
-449
-00:29:58,967 --> 00:29:59,541
+402
+00:28:44,640 --> 00:28:46,642
 Yeah.
 
-450
-00:30:02,216 --> 00:30:03,483
-We got y'all out front.
+403
+00:28:48,144 --> 00:28:50,897
+We got y'all out front. Let's go, p-square.
 
-451
-00:30:03,682 --> 00:30:04,668
-Let's go, p-square.
+404
+00:28:57,278 --> 00:29:00,656
+- You look healthy.
+- For a man who was gut-shot.
 
-452
-00:30:11,298 --> 00:30:12,142
-You look healthy.
-
-453
-00:30:13,421 --> 00:30:14,817
-For a man who was gutshot.
-
-454
-00:30:16,600 --> 00:30:18,430
+405
+00:29:02,450 --> 00:29:05,077
 You reached out to a third party
 
-455
-00:30:19,263 --> 00:30:21,890
-who engaged me in the purpose
-of holding your towers.
+406
+00:29:05,161 --> 00:29:08,247
+who engaged me
+in the purpose of holding your towers.
 
-456
-00:30:22,453 --> 00:30:24,436
-That third person's word
-was your word
-
-457
-00:30:24,647 --> 00:30:26,172
+407
+00:29:08,331 --> 00:29:12,084
+That third person's word was your word,
 as he represented you.
 
-458
-00:30:26,359 --> 00:30:27,016
+408
+00:29:12,168 --> 00:29:13,252
 That's right.
 
-459
-00:30:27,392 --> 00:30:30,090
+409
+00:29:13,336 --> 00:29:16,088
 And I ran those
-East Baltimore gentlemen off.
+east Baltimore gentlemen off.
 
-460
-00:30:30,277 --> 00:30:32,236
-I held up my end
-of the agreement
+410
+00:29:16,172 --> 00:29:18,925
+I held up my end of the agreement,
 
-461
-00:30:32,998 --> 00:30:35,391
-at least for as long
-as I was physically able.
+411
+00:29:19,008 --> 00:29:21,552
+at least for as long as
+I was physically able.
 
-462
-00:30:35,766 --> 00:30:36,470
+412
+00:29:21,636 --> 00:29:22,845
 You did.
 
-463
-00:30:36,810 --> 00:30:39,497
+413
+00:29:22,929 --> 00:29:25,890
 Your man then set up
-a meet at Butchie's bar.
+a meet at butchie's bar.
 
-464
-00:30:40,036 --> 00:30:42,484
-Your man told Omar Little
+414
+00:29:25,973 --> 00:29:28,351
+Your man told Omar little
 that I was responsible
 
-465
-00:30:42,496 --> 00:30:45,757
+415
+00:29:28,434 --> 00:29:32,313
 for the torture of a young boy
 who was close to Mr. Little's heart.
 
-466
-00:30:46,578 --> 00:30:47,505
-Your man
+416
+00:29:32,521 --> 00:29:36,484
+Your man, in effect, sought to have me hit.
 
-467
-00:30:48,197 --> 00:30:48,912
-in effect
+417
+00:29:36,567 --> 00:29:39,028
+Omar told you that
+and you believe that motherfucker?
 
-468
-00:30:49,088 --> 00:30:50,766
-sought to have me hit.
+418
+00:29:39,195 --> 00:29:41,948
+He doesn't strike me
+as a man who would tell stories.
 
-469
-00:30:50,977 --> 00:30:53,323
-Omar told you that?
-And you believe that motherfucker?
+419
+00:29:42,490 --> 00:29:45,159
+Even at the point of dying.
 
-470
-00:30:53,346 --> 00:30:56,079
-He doesn't strike me as
-a man who would tell stories
-
-471
-00:30:56,584 --> 00:30:58,074
-even at the point of dying.
-
-472
-00:30:59,317 --> 00:30:59,868
+420
+00:29:45,242 --> 00:29:46,911
 Shit.
 
-473
-00:31:03,434 --> 00:31:04,901
+421
+00:29:49,372 --> 00:29:50,915
 Proposition Joe package.
 
-474
-00:31:05,088 --> 00:31:07,939
-The inner workings of your
-organization don't concern me.
+422
+00:29:50,998 --> 00:29:54,377
+The inner workings
+of your organization don't concern me.
 
-475
-00:31:10,449 --> 00:31:12,373
-If there's a way,
-I mean, if my man...
+423
+00:29:56,337 --> 00:29:58,881
+If there's a way, I mean, if my man...
 
-476
-00:31:14,308 --> 00:31:15,933
-if he made
-a mistake here
+424
+00:30:00,216 --> 00:30:04,178
+If he made a mistake here,
+then I'm willing to pay the cost.
 
-477
-00:31:16,613 --> 00:31:18,068
-then I'm willing
-to pay the cost.
+425
+00:30:10,351 --> 00:30:13,270
+How can we fix it? You want money?
 
-478
-00:31:24,437 --> 00:31:25,407
-How can we fix it?
+426
+00:30:14,563 --> 00:30:17,191
+- Money?
+- Yeah, this is business.
 
-479
-00:31:26,522 --> 00:31:27,319
-You want money?
-
-480
-00:31:28,621 --> 00:31:29,231
-Money?
-
-481
-00:31:29,325 --> 00:31:31,061
-Yeah, this is business.
-
-482
-00:31:31,437 --> 00:31:33,243
+427
+00:30:17,274 --> 00:30:19,986
 Business is where you are now.
 
-483
-00:31:34,181 --> 00:31:37,281
-But what got you here is
-your word and your reputation.
+428
+00:30:20,069 --> 00:30:23,489
+But what got you here
+is your word and your reputation.
 
-484
-00:31:37,845 --> 00:31:40,566
-With that alone, you've still
-got an open line to New York.
+429
+00:30:23,572 --> 00:30:27,076
+With that alone,
+you've still got an open line to New York.
 
-485
-00:31:41,223 --> 00:31:43,111
+430
+00:30:27,159 --> 00:30:29,495
 Without it, you're done.
 
-486
-00:32:01,097 --> 00:32:02,435
-If my man's still on paper.
+431
+00:30:47,013 --> 00:30:48,973
+My man's still on paper.
 
-487
-00:32:03,913 --> 00:32:06,481
+432
+00:30:49,890 --> 00:30:52,518
 I can put him in a spot
 that got heavy artillery.
 
-488
-00:32:06,798 --> 00:32:08,945
-I ain't talkin'about pistols.
-I'm talkin' about
+433
+00:30:52,601 --> 00:30:56,147
+I ain't talking about pistols.
+I'm talking about mini tec-9s,
 
-489
-00:32:09,039 --> 00:32:11,420
-mini-tech nines,
-shotguns, they even got
+434
+00:30:56,230 --> 00:30:59,150
+shotguns, they even got grenades
+in that motherfucker.
 
-490
-00:32:11,443 --> 00:32:12,874
-grenades in that motherfucker.
-
-491
-00:32:13,391 --> 00:32:14,798
+435
+00:30:59,233 --> 00:31:00,818
 That's an automatic fall.
 
-492
-00:32:14,833 --> 00:32:17,144
-So, I'm hopin' you could
-keep that shit to five.
+436
+00:31:00,901 --> 00:31:03,946
+So, I'm hoping
+you could keep that shit to five.
 
-493
-00:32:18,165 --> 00:32:19,373
-Look, if you hit the joint
+437
+00:31:04,030 --> 00:31:07,366
+If you hit the joint, his people
+will try and take the rap for it,
 
-494
-00:32:19,581 --> 00:32:21,728
-his people are gonna try
-and take the wrap for it.
+438
+00:31:07,450 --> 00:31:09,869
+say all that firepower is theirs.
 
-495
-00:32:21,751 --> 00:32:23,687
-They gonna say all
-that firepower is theirs.
+439
+00:31:09,952 --> 00:31:13,289
+So all you gotta do
+is just hit him with the parole backup.
 
-496
-00:32:24,003 --> 00:32:27,077
-So all you gotta do is just hit
-him with the parole back-up.
-
-497
-00:32:27,522 --> 00:32:29,716
+440
+00:31:13,372 --> 00:31:16,292
 Look, I can't make no promises.
 
-498
-00:32:30,560 --> 00:32:32,895
-- It's gonna be a nickel, at least.
+441
+00:31:16,375 --> 00:31:19,253
+- It's gonna be a nickel at least.
 - Come on, man.
 
-499
-00:32:36,660 --> 00:32:38,795
+442
+00:31:22,465 --> 00:31:25,426
 - Him and me...
-- I'm gonna do my best, alright.
+- I'm gonna do my best, all right?
 
-500
-00:32:42,162 --> 00:32:43,725
+443
+00:31:28,137 --> 00:31:30,139
 He's always at this place?
 
-501
-00:32:45,895 --> 00:32:47,209
-Naw, he come and go.
+444
+00:31:31,640 --> 00:31:36,270
+No, he come and go.
+But it's the spot since the war started.
 
-502
-00:32:48,030 --> 00:32:49,977
-But it's the spot
-since the war started.
+445
+00:31:56,040 --> 00:31:57,792
+He must have done something to you.
 
-503
-00:33:10,401 --> 00:33:12,043
-He musta done
-something to you.
+446
+00:32:01,629 --> 00:32:03,464
+No, it's just business.
 
-504
-00:33:15,738 --> 00:33:17,111
-Naw, it's just business.
-
-505
-00:33:35,195 --> 00:33:37,596
+447
+00:32:21,190 --> 00:32:23,609
 Almost forgot.
 This came in for you last night.
 
-506
-00:33:37,667 --> 00:33:40,036
-Said she called your cell phone,
-but you didn't answer.
+448
+00:32:23,692 --> 00:32:25,611
+Said she called your cell phone
+but no answer.
 
-507
-00:33:40,048 --> 00:33:40,951
-She had a nice voice.
+449
+00:32:25,694 --> 00:32:28,114
+Had a nice voice. Like a kitty cat.
 
-508
-00:33:40,998 --> 00:33:42,101
-Like a kitty-cat.
-
-509
-00:33:45,221 --> 00:33:46,029
+450
+00:32:31,200 --> 00:32:33,202
 We're on.
 
-510
-00:33:48,106 --> 00:33:49,912
-<i>He say for you
-to be there, half-pint. </i>
+451
+00:32:34,078 --> 00:32:37,039
+- He said for you to be there, half-pint.
+- Yeah, ok.
 
-511
-00:33:50,147 --> 00:33:51,249
-<i>Yeah, okay. </i>
-
-512
-00:33:59,836 --> 00:34:01,244
-Stringer Bell, that's him.
-
-513
-00:34:01,255 --> 00:34:03,402
+452
+00:32:45,714 --> 00:32:48,050
+- Stringer bell, that's him.
 - There it is.
-- Yeah, but for how long?
 
-514
-00:34:04,376 --> 00:34:06,264
-He could toss that
-burner at any moment.
+453
+00:32:48,259 --> 00:32:52,096
+Yeah, but for how long?
+He could toss that burner at any moment.
 
-515
-00:34:08,446 --> 00:34:09,854
-I got Rhonda,
-you raise Daniels.
+454
+00:32:54,390 --> 00:32:56,892
+- I got Rhonda, you raise Daniels.
+- Ok.
 
-516
-00:34:09,889 --> 00:34:10,312
-Okay.
+455
+00:33:00,020 --> 00:33:02,481
+- Ronnie? We're on stringer's phone.
+- Lieutenant.
 
-517
-00:34:14,100 --> 00:34:15,930
-Ronnie, yeah, we're
-on Stringer's phone.
+456
+00:33:02,565 --> 00:33:05,192
+Go to the judge.
+I'll meet you there with an affidavit.
 
-518
-00:34:15,942 --> 00:34:16,470
-Lieutenant.
-
-519
-00:34:16,564 --> 00:34:20,068
-- You should go straight to the judge.
-- I'll meet you there with an affidavit.
-
-520
-00:34:20,091 --> 00:34:22,660
+457
+00:33:05,276 --> 00:33:07,611
 - Lester's raising Daniels.
-- McNulty's calling Pearlman.
+- Mcnulty's calling Pearlman.
 
-521
-00:34:26,698 --> 00:34:27,859
+458
+00:33:12,575 --> 00:33:15,744
 Watch that footwork, baby.
+All right. Take it to him, now.
 
-522
-00:34:28,211 --> 00:34:28,798
-Alright.
+459
+00:33:16,871 --> 00:33:18,497
+Yeah. Take it to him, now.
 
-523
-00:34:29,067 --> 00:34:30,053
-Take it to him now.
+460
+00:33:21,667 --> 00:33:25,421
+- I'm a beast, coach.
+- All right, boy, don't be gloating on it.
 
-524
-00:34:31,038 --> 00:34:32,070
-Take it to him now.
+461
+00:33:25,671 --> 00:33:28,799
+When we gonna have some real fights,
+one of them tournament things?
 
-525
-00:34:35,800 --> 00:34:37,044
-I'm a beast, coach.
+462
+00:33:28,924 --> 00:33:32,428
+- Yeah, we gladiators, son.
+- Y'all got more fire than skills.
 
-526
-00:34:37,079 --> 00:34:39,288
-Alright, boy, don't
-be gloatin' on it.
+463
+00:33:32,928 --> 00:33:35,973
+You ain't ready
+for no full-blown thing just yet.
 
-527
-00:34:39,746 --> 00:34:41,540
-Yo, when we gonna
-have some real fights?
+464
+00:33:36,056 --> 00:33:40,352
+But I don't know, maybe it'd be good for
+y'all to spar with some boys you don't know.
 
-528
-00:34:41,552 --> 00:34:43,230
-You know, one of them
-tournament things.
+465
+00:33:40,436 --> 00:33:42,897
+A nigger step in my house,
+he getting dropped.
 
-529
-00:34:43,241 --> 00:34:44,473
-Yeah, we gladiators, son.
-
-530
-00:34:44,520 --> 00:34:46,561
-Y'all got more fire than skills.
-
-531
-00:34:46,948 --> 00:34:49,221
-You ain't ready for
-no full-blown thing just yet.
-
-532
-00:34:50,124 --> 00:34:52,728
-But I don't know, maybe it
-be good for you all to spar
-
-533
-00:34:52,857 --> 00:34:54,136
-with some boys you don't know.
-
-534
-00:34:54,488 --> 00:34:56,552
-A nigga step in my house,
-he gettin' dropped.
-
-535
-00:34:57,303 --> 00:35:00,795
+466
+00:33:42,980 --> 00:33:47,067
 I met these fellas at that gym
 over on Pennsylvania Avenue.
 
-536
-00:35:01,229 --> 00:35:02,977
-I'll see if
-they wanna roll through.
+467
+00:33:47,151 --> 00:33:49,653
+I'll see if they wanna
+roll through, all right?
 
-537
-00:35:03,000 --> 00:35:03,423
-A- ight?
+468
+00:33:49,862 --> 00:33:51,113
+All right?
 
-538
-00:35:03,927 --> 00:35:05,100
-A- ight. A-ight.
+469
+00:33:58,954 --> 00:34:01,457
+You don't return a councilman's calls?
 
-539
-00:35:12,992 --> 00:35:14,893
-You don't return
-a councilman's calls?
-
-540
-00:35:17,168 --> 00:35:18,177
+470
+00:34:03,209 --> 00:34:05,211
 I'm off this week.
 
-541
-00:35:20,502 --> 00:35:22,202
-Taking a little
-accrued vacation.
+471
+00:34:06,462 --> 00:34:08,297
+Taking a little accrued vacation.
 
-542
-00:35:22,531 --> 00:35:22,906
-Yeah.
+472
+00:34:08,380 --> 00:34:10,257
+Yeah. And I heard why.
 
-543
-00:35:23,352 --> 00:35:24,384
-And I heard why.
-
-544
-00:35:25,792 --> 00:35:27,551
-I'm here for your side
-of this story.
-
-545
-00:35:28,009 --> 00:35:30,117
+473
+00:34:11,675 --> 00:34:14,595
+I'm here for your side of this story.
 If I can't get that,
-then whatever comes out of
 
-546
-00:35:30,140 --> 00:35:31,806
-Burrell's mouth is gonna stand.
+474
+00:34:14,678 --> 00:34:17,890
+then whatever comes
+out of burrell's mouth is gonna stand.
 
-547
-00:35:31,876 --> 00:35:32,874
+475
+00:34:17,973 --> 00:34:19,975
 You good with that?
 
-548
-00:35:34,140 --> 00:35:35,349
-What did you do, Major?
+476
+00:34:20,059 --> 00:34:24,230
+What did you do, major?
+And why the fuck haven't they shut it down?
 
-549
-00:35:36,522 --> 00:35:38,539
-And why the fuck haven't
-they shut it down?
+477
+00:34:24,313 --> 00:34:27,233
+We've seen that law enforcement's
+steamroller approach
 
-550
-00:35:38,554 --> 00:35:41,264
-We've seen that law enforcement
-steam roller approach
+478
+00:34:27,316 --> 00:34:29,109
+is just spitting in the wind!
 
-551
-00:35:41,287 --> 00:35:42,742
-is just spitting in the wind.
-
-552
-00:35:42,789 --> 00:35:45,686
+479
+00:34:29,193 --> 00:34:31,487
 I really think that you're
-onto something here, Clarence.
+onto something here,
 
-553
-00:35:45,710 --> 00:35:46,918
-But if you keep it up
+480
+00:34:31,570 --> 00:34:35,866
+but if you keep it up, they'll be calling
+you the most dangerous man in america.
 
-554
-00:35:47,035 --> 00:35:49,287
-before you know it,
-they'll be calling you the most
+481
+00:34:35,950 --> 00:34:38,953
+I know it may appear
+that we're vulnerable here, huh?
 
-555
-00:35:49,334 --> 00:35:50,389
-dangerous man in america.
-
-556
-00:35:50,412 --> 00:35:53,004
-Well, I know it may appear that
-we're vulnerable here, huh?
-
-557
-00:35:53,110 --> 00:35:55,233
+482
+00:34:39,036 --> 00:34:44,083
 But if we enforce the drug laws
+everywhere else in the city aggressively,
 
-558
-00:35:55,433 --> 00:35:57,614
-everywhere else in the city,
-aggressively
+483
+00:34:44,166 --> 00:34:47,002
+how can they say
+we're not a law and order administration?
 
-559
-00:35:57,872 --> 00:36:01,026
-how can they say we're not
-a law-and-order administration.
-
-560
-00:36:01,166 --> 00:36:03,231
-Now there's got
-to be a middle ground here
-
-561
-00:36:03,254 --> 00:36:04,427
+484
+00:34:47,086 --> 00:34:50,339
+Now there's got to be a middle ground here
 that we have yet to find.
 
-562
-00:36:04,463 --> 00:36:06,621
+485
+00:34:50,422 --> 00:34:52,633
 There's got to be some way
 to accomplish this
 
-563
-00:36:06,691 --> 00:36:08,697
-without turning
-everything upside down.
+486
+00:34:52,716 --> 00:34:54,551
+without turning everything upside down.
 
-564
-00:36:09,812 --> 00:36:12,030
-This used to be one
-of my worst corners.
+487
+00:34:55,844 --> 00:34:58,097
+This used to be one of my worst corners.
 
-565
-00:36:13,492 --> 00:36:14,524
-This is the neighborhood
-
-566
-00:36:14,559 --> 00:36:16,354
-where a cop got shot
+488
+00:34:59,431 --> 00:35:01,934
+This is where a cop got shot
 last summer, right?
 
-567
-00:36:16,377 --> 00:36:17,398
-Dozerman.
+489
+00:35:02,059 --> 00:35:04,687
+- Dozerman.
+- Looks quiet now.
 
-568
-00:36:17,644 --> 00:36:18,454
-Looks quiet now.
-
-569
-00:36:21,281 --> 00:36:22,759
+490
+00:35:07,231 --> 00:35:09,233
 So do most all my corners.
 
-570
-00:36:28,213 --> 00:36:28,999
-G- man.
+491
+00:35:14,154 --> 00:35:15,948
+G-man.
 
-571
-00:36:36,538 --> 00:36:37,640
-So, what's up?
+492
+00:35:22,454 --> 00:35:25,541
+- So, what's up?
+- Shut the door.
 
-572
-00:36:38,544 --> 00:36:39,412
-Shut the door.
+493
+00:35:31,046 --> 00:35:35,217
+In ten minutes we're gonna have
+an affidavit for a cityjudge to sign.
 
-573
-00:36:45,058 --> 00:36:46,865
-In 10 minutes we're gonna
-have an affidavit
+494
+00:35:35,301 --> 00:35:38,178
+- It's for Russell bell's dirty cell.
+- It's a good pull.
 
-574
-00:36:46,900 --> 00:36:48,448
-for a city judge to sign:
+495
+00:35:38,262 --> 00:35:41,890
+It is if bay wireless
+doesn't take five days to process it.
 
-575
-00:36:49,363 --> 00:36:51,088
-It's for Russell Bell's dirty cell.
-
-576
-00:36:51,193 --> 00:36:52,216
-It's a good pull.
-
-577
-00:36:52,345 --> 00:36:55,418
-It is if Bay Wireless doesn't
-take five days to process it.
-
-578
-00:36:56,169 --> 00:36:57,342
+496
+00:35:42,099 --> 00:35:43,976
 You owe me, Fitz.
 
-579
-00:36:58,046 --> 00:37:00,157
-That whole port case
-came down early behind
+497
+00:35:44,059 --> 00:35:48,063
+That whole port case came down early
+behind some ugly shit in your house.
 
-580
-00:37:00,192 --> 00:37:01,823
-some ugly shit in your house.
-
-581
-00:37:04,000 --> 00:37:08,199
+498
+00:35:49,898 --> 00:35:54,903
 Now, I don't care how you do it,
 but I need my wire today.
 
-582
-00:37:12,739 --> 00:37:15,159
-These guys were in radio cars
-two months ago
+499
+00:35:58,657 --> 00:36:03,996
+These guys were in radio cars two months
+ago, chasing calls, clearing corners.
 
-583
-00:37:15,441 --> 00:37:17,482
-chasing calls, clearing corners.
+500
+00:36:04,079 --> 00:36:05,998
+I pulled them to do felony follow-up.
 
-584
-00:37:18,127 --> 00:37:19,945
-I pulled them to do
-felony follow-up.
-
-585
-00:37:20,062 --> 00:37:23,711
+501
+00:36:06,081 --> 00:36:10,002
 More police work, less bullshit,
 and that's why my crime is down.
 
-586
-00:37:25,090 --> 00:37:25,982
-My numbers are true.
+502
+00:36:10,961 --> 00:36:12,463
+The numbers are true.
 
-587
-00:37:28,480 --> 00:37:29,395
-What'd he do?
+503
+00:36:14,423 --> 00:36:17,634
+- What did he do?
+- Church burglaries, 14 of them.
 
-588
-00:37:29,946 --> 00:37:31,589
-Church burglaries,
-14 of 'em.
-
-589
-00:37:34,421 --> 00:37:34,961
+504
+00:36:20,346 --> 00:36:22,306
 Let's go.
 
-590
-00:37:39,442 --> 00:37:39,993
+505
+00:36:25,267 --> 00:36:26,935
 Mademoiselle.
 
-591
-00:37:42,175 --> 00:37:44,474
-Is it aff-ee-ant
-or aff-I-ant.
+506
+00:36:28,145 --> 00:36:31,023
+Is it "aff-e-ant" or affiant?
 
-592
-00:37:46,079 --> 00:37:47,616
-I've never been
-clear on that.
+507
+00:36:31,106 --> 00:36:33,901
+I've never been clear on that.
 
-593
-00:37:50,889 --> 00:37:53,915
-You been hunting this guy Bell
+508
+00:36:36,945 --> 00:36:40,532
+You been hunting this guy bell
 for a long time, haven't you, Jimmy?
 
-594
-00:37:54,818 --> 00:37:55,745
+509
+00:36:40,616 --> 00:36:43,035
 A while, yeah.
 
-595
-00:37:57,136 --> 00:37:58,661
+510
+00:36:43,118 --> 00:36:44,953
 Name's familiar to me.
 
-596
-00:37:59,705 --> 00:38:02,825
-That the thing that we did
+511
+00:36:45,579 --> 00:36:48,332
+That thing that we did
 a few years back, was he the...
 
-597
-00:38:02,861 --> 00:38:03,623
-yeah.
+512
+00:36:48,415 --> 00:36:50,417
+Yeah.
 
-598
-00:38:06,286 --> 00:38:07,531
+513
+00:36:52,211 --> 00:36:54,213
 What's done is done, Jimmy.
 
-599
-00:38:09,608 --> 00:38:11,836
+514
+00:36:55,506 --> 00:36:58,008
 Now, for your own fucking sake,
 just let it go.
 
-600
-00:38:14,769 --> 00:38:15,344
+515
+00:37:00,594 --> 00:37:02,221
 Come on.
 
-601
-00:38:18,424 --> 00:38:19,515
-As the affiant
+516
+00:37:04,306 --> 00:37:07,309
+As the affiant, do you solemnly swear
 
-602
-00:38:20,383 --> 00:38:22,834
-do you solemnly swear
-and attest that the information
-
-603
-00:38:22,846 --> 00:38:24,430
+517
+00:37:07,393 --> 00:37:09,937
+that the information
 contained in this document...
 
-604
-00:38:24,899 --> 00:38:27,925
-That's the most sign
-ificant dropin crime in this district
+518
+00:37:10,729 --> 00:37:14,983
+That's the most significant drop in
+crime in this district in recent history.
 
-605
-00:38:27,972 --> 00:38:28,946
-in recent history.
+519
+00:37:17,820 --> 00:37:20,322
+We still got
+hard-looking boys out on them streets.
 
-606
-00:38:31,887 --> 00:38:34,339
-We still got some hard lookin'
-boys out on them streets.
+520
+00:37:20,489 --> 00:37:23,575
+And, sergeant,
+you know them little mini-motorcycles?
 
-607
-00:38:34,527 --> 00:38:37,706
-An' Sergeant, them
-little mini-motorcycles
+521
+00:37:23,659 --> 00:37:26,912
+- They keeping me up at night.
+- We're working on that.
 
-608
-00:38:37,917 --> 00:38:39,219
-they keepin' me up at night.
+522
+00:37:26,995 --> 00:37:30,040
+I have been living
+in this part of the city my whole life.
 
-609
-00:38:39,723 --> 00:38:41,070
-We're working on that.
+523
+00:37:30,124 --> 00:37:33,252
+I can tell you something.
+We weren't any angels when we were kids.
 
-610
-00:38:41,363 --> 00:38:43,768
-I have been livin' in this part
-of the city my whole life.
+524
+00:37:33,335 --> 00:37:35,337
+And those hard boys you talking about,
 
-611
-00:38:44,178 --> 00:38:45,504
-And I can tell you something.
+525
+00:37:35,421 --> 00:37:38,090
+half of them, they's just playing gangster.
 
-612
-00:38:45,527 --> 00:38:47,346
-We weren't any angels
-when we were kids.
+526
+00:37:38,173 --> 00:37:40,551
+They ain't no different from what we were.
 
-613
-00:38:47,428 --> 00:38:50,360
-And those are hard boys you
-talkin' about, half of 'em
+527
+00:37:40,634 --> 00:37:43,137
+Shirts and drawers a little longer, is all.
 
-614
-00:38:50,618 --> 00:38:51,964
-they just playin' gangster.
+528
+00:37:44,638 --> 00:37:47,683
+The one thing
+I do miss about my neighborhood,
 
-615
-00:38:52,551 --> 00:38:54,439
-They no different
-from what we were.
+529
+00:37:48,016 --> 00:37:49,935
+the neighborhood I came up in...
 
-616
-00:38:54,803 --> 00:38:57,219
-Shirts and drawers
-a little longer, is all.
+530
+00:37:50,018 --> 00:37:52,396
+See, we knew the police. See?
 
-617
-00:38:58,779 --> 00:39:02,015
-The one thing I do miss
-about my neighborhood
+531
+00:37:52,479 --> 00:37:57,151
+We had a white police officer. Our
+house was on his beat, on his foot beat.
 
-618
-00:39:02,038 --> 00:39:04,044
-I'm talking about the
-neighborhood I came up in.
+532
+00:37:57,234 --> 00:38:00,571
+He would be sitting out talking
+to my mother damn near every night,
 
-619
-00:39:04,103 --> 00:39:05,478
-See, we knew the police.
+533
+00:38:00,654 --> 00:38:03,031
+just sitting out on
+her stoop, just talking.
 
-620
-00:39:05,971 --> 00:39:06,510
-See?
-
-621
-00:39:06,663 --> 00:39:09,596
-We had a white police officer,
-our house was on his beat
-
-622
-00:39:09,771 --> 00:39:10,651
-on his foot beat
-
-623
-00:39:11,367 --> 00:39:14,640
-and he would be sitting out talking
-to my mother damn near every night.
-
-624
-00:39:15,038 --> 00:39:17,122
-I mean just sittin' out
-on her stoop just talking.
-
-625
-00:39:17,149 --> 00:39:20,199
+534
+00:38:03,115 --> 00:38:06,618
 And I'm telling you, this man,
 his name was Frazier O'Leary.
 
-626
-00:39:20,563 --> 00:39:22,639
-He even knew
-my grandmother by name.
+535
+00:38:06,702 --> 00:38:09,413
+- He even knew my grandmother by name.
+- Yes, ma'am.
 
-627
-00:39:22,662 --> 00:39:23,519
-Yes, ma'am.
+536
+00:38:09,496 --> 00:38:11,707
+Let's move on
+to the tip-line information...
 
-628
-00:39:23,577 --> 00:39:25,618
-Now let's move on to the
-tip-line information...
+537
+00:38:11,874 --> 00:38:14,460
+I'm so sorry, baby, but I was not finished.
 
-629
-00:39:25,638 --> 00:39:26,553
-I'm so sorry, baby.
+538
+00:38:14,543 --> 00:38:16,628
+You see, let me tell you something.
 
-630
-00:39:26,588 --> 00:39:28,500
-I'm real sorry,
-but I was not finished.
+539
+00:38:16,712 --> 00:38:21,884
+I have not seen that face-to-face
+policing in a long while.
 
-631
-00:39:29,005 --> 00:39:30,682
-You see, let me
-tell you something.
+540
+00:38:21,967 --> 00:38:25,053
+In a very long while. Until last week.
 
-632
-00:39:30,823 --> 00:39:34,225
-I have not seen that
-face-to-face policein'
-
-633
-00:39:34,600 --> 00:39:35,785
-in a long while.
-
-634
-00:39:35,937 --> 00:39:37,181
-In a very long while.
-
-635
-00:39:37,451 --> 00:39:38,424
-Until last week.
-
-636
-00:39:39,198 --> 00:39:42,659
+541
+00:38:25,137 --> 00:38:29,892
 A young officer, black officer,
-came by my stoop, I was sitting out
+came by my stoop, gave me his card.
 
-637
-00:39:42,823 --> 00:39:43,914
-gave me his card.
-
-638
-00:39:43,984 --> 00:39:47,480
-His name was Reggie Ballard,
+542
+00:38:29,975 --> 00:38:33,437
+His name is Reggie Ballard,
 is his name, right?
 
-639
-00:39:47,656 --> 00:39:49,236
-And he said,
-and he talked to me.
-
-640
-00:39:49,260 --> 00:39:50,257
+543
+00:38:33,520 --> 00:38:36,273
+And he sat, and he talked to me.
 We just talked.
 
-641
-00:39:50,350 --> 00:39:52,251
-And see now I know
-his name and face
+544
+00:38:36,356 --> 00:38:40,444
+And, see, now I know his name and face
+and he knows my name and face.
 
-642
-00:39:52,509 --> 00:39:54,092
-and he knows
-my name and face.
-
-643
-00:39:54,585 --> 00:39:56,603
+545
+00:38:40,527 --> 00:38:42,362
 You see?
 And I'm going to tell you something.
 
-644
-00:39:56,696 --> 00:39:58,289
+546
+00:38:42,446 --> 00:38:44,156
 That is how it should be.
 
-645
-00:40:03,203 --> 00:40:05,373
-My son wants to open up
-one of them snowball
+547
+00:38:49,286 --> 00:38:52,331
+My son wanna open up
+a snowball stand on the street.
 
-646
-00:40:05,408 --> 00:40:06,440
-stands on the street.
+548
+00:38:52,414 --> 00:38:54,082
+Do we need a permit for this?
 
-647
-00:40:06,487 --> 00:40:08,175
-Do he need
-a permit for this?
-
-648
-00:40:10,650 --> 00:40:13,248
-You ever seen a Westside
+549
+00:38:56,668 --> 00:39:00,172
+You ever seen a West Side
 community meeting like this one?
 
-649
-00:40:13,642 --> 00:40:15,796
-In fact, folks downtown
-at minor privileges
-
-650
-00:40:15,797 --> 00:40:18,984
+550
+00:39:00,255 --> 00:39:03,258
+The folks downtown
 tell me that stands aren't allowed
-in the citywide way at all.
 
-651
-00:40:19,492 --> 00:40:22,823
-Now they do say it is possible
+551
+00:39:03,342 --> 00:39:05,344
+in the city right-of-way at all.
+
+552
+00:39:05,427 --> 00:39:08,597
+Now they do say it's possible
 to have a snowball stand
 
-652
-00:40:22,858 --> 00:40:24,266
-behind the sidewalk...
+553
+00:39:08,680 --> 00:39:10,349
+behind the sidewalk.
 
-653
-00:40:30,528 --> 00:40:32,511
-Why are you really
-down here, Councilman?
+554
+00:39:16,480 --> 00:39:19,107
+Why are you really down here,
+councilman?
 
-654
-00:40:33,974 --> 00:40:35,886
-I mean, this ain't
-even your district.
+555
+00:39:19,942 --> 00:39:23,779
+- I mean, this ain't even your district.
+- I'm interested.
 
-655
-00:40:36,543 --> 00:40:37,469
-I'm interested.
+556
+00:39:24,112 --> 00:39:26,615
+And I have the public safety subcommittee.
 
-656
-00:40:38,302 --> 00:40:40,202
-I have the Public
-Safety Subcommittee.
+557
+00:39:31,119 --> 00:39:33,121
+You see that building there?
 
-657
-00:40:45,340 --> 00:40:46,502
-See that buding there?
+558
+00:39:34,790 --> 00:39:38,168
+It was the old stryker building,
+it was a funeral parlor.
 
-658
-00:40:48,824 --> 00:40:50,068
-Was the old Stryker building.
+559
+00:39:38,460 --> 00:39:41,421
+The last stop before the cemetery
+for West Side white folk
 
-659
-00:40:50,842 --> 00:40:51,874
-It was a funeral parlor
+560
+00:39:41,505 --> 00:39:43,507
+back when there were still some around.
 
-660
-00:40:52,566 --> 00:40:55,287
-the last stop before the cemetery
-for Westside white folk
+561
+00:39:43,590 --> 00:39:49,388
+Right about the time that Jim crow
+was breaking up back in the early '60s,
 
-661
-00:40:55,428 --> 00:40:57,750
-back when there were
-still some of those around.
+562
+00:39:49,471 --> 00:39:52,224
+somebody asked old man stryker,
+they said, "stryker,
 
-662
-00:40:57,832 --> 00:40:59,169
-Right 'bout the time that...
+563
+00:39:52,307 --> 00:39:57,020
+"you gonna change your policy
+and start burying black folk?"
 
-663
-00:41:00,624 --> 00:41:03,099
-Jim Crow was breakin' up
-back in the early 60s
+564
+00:39:57,104 --> 00:39:58,814
+And stryker said,
 
-664
-00:41:03,380 --> 00:41:05,081
-somebody ask
-old man Stryker, they say
+565
+00:39:58,981 --> 00:40:02,568
+"yeah, on one condition.
 
-665
-00:41:05,105 --> 00:41:09,961
-"Stryker, you gonna change your
-policy and start buryin' black folk. "
+566
+00:40:02,651 --> 00:40:05,028
+"That I can do them all at once."
 
-666
-00:41:11,002 --> 00:41:12,057
-And Stryker said
-
-667
-00:41:12,855 --> 00:41:15,612
-"yeah, on one condition:
-
-668
-00:41:16,667 --> 00:41:18,181
-If I can do all of them at once. "
-
-669
-00:41:22,251 --> 00:41:22,978
+567
+00:40:08,073 --> 00:40:09,700
 That's sick.
 
-670
-00:41:23,928 --> 00:41:24,879
-You know somethin'?
+568
+00:40:09,825 --> 00:40:14,079
+But you know something?
+I had a lot of respect for that man.
 
-671
-00:41:26,099 --> 00:41:27,945
-I had a lot of
-respect for that man.
+569
+00:40:15,289 --> 00:40:16,999
+'Cause, unlike most folks,
 
-672
-00:41:29,165 --> 00:41:30,620
-'Cause, unlike most folks
-
-673
-00:41:31,171 --> 00:41:32,731
+570
+00:40:17,082 --> 00:40:19,543
 I always knew where he stood.
 
-674
-00:41:34,045 --> 00:41:35,312
+571
+00:40:19,835 --> 00:40:21,461
 I'm doing my job.
 
-675
-00:41:41,883 --> 00:41:43,432
-Look, I done showed
-you the good.
+572
+00:40:27,801 --> 00:40:29,845
+Look, I done showed you the good.
 
-676
-00:41:44,804 --> 00:41:46,446
-Come on, let me show
-you the ugly.
+573
+00:40:30,762 --> 00:40:32,764
+Come on, let me show you the ugly.
 
-677
-00:42:00,992 --> 00:42:03,397
-Hey, how come so quick?
+574
+00:40:46,862 --> 00:40:48,322
+Hey.
 
-678
-00:42:04,171 --> 00:42:05,544
-Stringer Bell's given name?
+575
+00:40:48,530 --> 00:40:51,450
+- How come so quick?
+- Stringer bell's given name.
 
-679
-00:42:05,884 --> 00:42:06,459
+576
+00:40:51,700 --> 00:40:53,452
 Russell.
 
-680
-00:42:07,550 --> 00:42:08,124
-For now.
+577
+00:40:53,535 --> 00:40:55,537
+For now, Ahmed.
 
-681
-00:42:09,098 --> 00:42:09,755
-Achmed.
+578
+00:41:02,210 --> 00:41:04,296
+We're on the top of the mountain.
 
-682
-00:42:16,246 --> 00:42:18,076
-We're on the top
-of the mountain.
+579
+00:41:10,886 --> 00:41:14,264
+Red tops over here.
+Come get them, come get them.
 
-683
-00:42:25,944 --> 00:42:27,469
-<i>Come get 'em,
-come get 'em. </i>
+580
+00:41:26,568 --> 00:41:28,945
+- This is it?
+- One of three.
 
-684
-00:42:40,701 --> 00:42:41,405
-This is it?
+581
+00:41:29,655 --> 00:41:31,990
+How did you make this happen?
 
-685
-00:42:42,103 --> 00:42:43,123
-One of three.
-
-686
-00:42:43,710 --> 00:42:45,188
-How did you
-make this happen?
-
-687
-00:42:47,569 --> 00:42:49,000
+582
+00:41:33,408 --> 00:41:35,410
 I just did it.
 
-688
-00:42:51,182 --> 00:42:54,513
-I got tired of hearin' folks
-talk about what needed
+583
+00:41:37,120 --> 00:41:40,832
+I got tired of hearing folks
+talk about what needed to be done
 
-689
-00:42:54,548 --> 00:42:55,628
-to be done or...
+584
+00:41:40,916 --> 00:41:43,960
+or what they would do if it was up to them.
 
-690
-00:42:56,449 --> 00:42:58,380
-what they would do
-if it were up to them.
+585
+00:41:45,087 --> 00:41:48,840
+So, this is about you making a Mark?
 
-691
-00:42:58,404 --> 00:43:00,351
-<i>Got them bottle rockets,
-bottle rockets. </i>
+586
+00:41:49,883 --> 00:41:53,470
+No, I ain't analyzed it all that deep.
 
-692
-00:43:00,398 --> 00:43:02,685
-So, what, this is about
-you making a mark?
+587
+00:41:54,221 --> 00:41:56,890
+I ain't claiming no
+kind of victory, neither.
 
-693
-00:43:03,975 --> 00:43:07,248
-Nah, I ain't analyzed it
-all that deep.
+588
+00:41:57,307 --> 00:42:00,602
+I will say I'm glad I tried.
 
-694
-00:43:08,363 --> 00:43:10,501
-I ain't claimin' no kind
-of victory, neither.
-
-695
-00:43:11,463 --> 00:43:14,477
-I will say,
-I'm glad I tried.
-
-696
-00:43:18,442 --> 00:43:19,579
-Go on, Councilman.
-
-697
-00:43:21,397 --> 00:43:22,722
+589
+00:42:04,189 --> 00:42:08,568
+Go on, councilman.
 I'll wait for you down here.
 
-698
-00:43:24,083 --> 00:43:25,139
-You're not comin'?
+590
+00:42:09,986 --> 00:42:11,988
+You're not coming?
 
-699
-00:43:27,426 --> 00:43:29,186
-What you're gonna
-see ain't pretty.
+591
+00:42:13,365 --> 00:42:15,367
+Now, what you gonna see ain't pretty.
 
-700
-00:43:29,960 --> 00:43:31,134
-But you're safe.
+592
+00:42:15,450 --> 00:42:17,577
+But it's safe.
 
-701
-00:43:31,838 --> 00:43:33,234
-<i>W.M.D'S.,
-Got them W.M.D'S.</i>
+593
+00:42:18,995 --> 00:42:22,082
+I think you need to take this journey
+your own self.
 
-702
-00:43:33,245 --> 00:43:35,544
-Think you need to take
-this journey your ownself.
+594
+00:42:22,541 --> 00:42:24,376
+Yeah.
 
-703
-00:43:43,457 --> 00:43:45,369
-<i>Yellow tops.
-Yellow tops, right here. </i>
+595
+00:42:28,380 --> 00:42:31,508
+Better deal on those yellow tops.
+Yellow tops right here.
 
-704
-00:44:20,581 --> 00:44:21,942
-I ordered one for you.
+596
+00:43:06,501 --> 00:43:10,338
+- I ordered one for you.
+- Thanks.
 
-705
-00:44:23,455 --> 00:44:23,995
-Thanks.
+597
+00:43:11,673 --> 00:43:13,967
+- Surprised I called?
+- A little.
 
-706
-00:44:25,973 --> 00:44:26,994
-Surprised I called?
-
-707
-00:44:27,181 --> 00:44:27,780
-A little.
-
-708
-00:44:28,894 --> 00:44:30,114
+598
+00:43:14,968 --> 00:43:16,970
 After the way we left it.
 
-709
-00:44:32,624 --> 00:44:33,856
-I'm a type-a, Jimmy.
+599
+00:43:18,346 --> 00:43:20,056
+I'm a type a, Jimmy.
 
-710
-00:44:35,580 --> 00:44:37,061
+600
+00:43:21,391 --> 00:43:23,393
 People like me break things.
 
-711
-00:44:37,542 --> 00:44:40,768
+601
+00:43:23,477 --> 00:43:27,147
 When I slow down, or when I take
 a minute to think about it, I...
 
-712
-00:44:43,536 --> 00:44:45,530
-Is that your idea
-of an apology?
+602
+00:43:29,524 --> 00:43:31,318
+Is that your idea of an apology?
 
-713
-00:44:46,727 --> 00:44:49,341
-I didn't drive an hour
-up 95 to apologize.
+603
+00:43:32,652 --> 00:43:35,238
+I didn't drive an hour up 95 to apologize.
 
-714
-00:44:51,288 --> 00:44:52,426
+604
+00:43:37,240 --> 00:43:39,242
 I missed you.
 
-715
-00:44:58,041 --> 00:44:59,308
-I missed you,
-too, I guess.
+605
+00:43:43,997 --> 00:43:46,208
+I missed you too, I guess.
 
-716
-00:45:00,317 --> 00:45:02,792
-Still, seems like a long way
-to come just to tell me that
+606
+00:43:46,291 --> 00:43:48,585
+Seems a long way
+to come just to tell me that,
 
-717
-00:45:02,862 --> 00:45:04,962
+607
+00:43:48,668 --> 00:43:51,463
 then turn around
-and drive back down to D.C.
+and drive back down to DC.
 
-718
-00:45:05,736 --> 00:45:07,085
+608
+00:43:51,546 --> 00:43:53,548
 I'm not driving back tonight.
 
-719
-00:45:15,043 --> 00:45:16,075
-So what's goin' on?
+609
+00:44:00,931 --> 00:44:03,350
+So what's going on?
+Are you working on a case?
 
-720
-00:45:16,550 --> 00:45:17,606
-You working on a case?
+610
+00:44:03,433 --> 00:44:06,061
+Mm-hm. It's a good one.
 
-721
-00:45:18,474 --> 00:45:19,236
-It's a good one.
+611
+00:44:06,895 --> 00:44:10,023
+How about you? Anything interesting?
 
-722
-00:45:20,996 --> 00:45:23,085
-How about you?
-Anything interestin'?
+612
+00:44:10,106 --> 00:44:13,610
+I did hear a crazy Baltimore story,
 
-723
-00:45:24,269 --> 00:45:27,049
-I did hear a crazy
-Baltimore story
+613
+00:44:13,819 --> 00:44:16,822
+you know,
+through the rumor mill of Washington.
 
-724
-00:45:27,882 --> 00:45:29,947
-you know through
-the rumor of Washington.
+614
+00:44:16,905 --> 00:44:19,074
+- Really?
+- Some...
 
-725
-00:45:30,991 --> 00:45:31,613
-Really?
+615
+00:44:19,866 --> 00:44:23,620
+Renegade police commander
+takes it on himself to...
 
-726
-00:45:32,516 --> 00:45:33,208
-Some...
+616
+00:44:23,829 --> 00:44:27,040
+I don't know,
+legalise drugs in the precinct?
 
-727
-00:45:33,912 --> 00:45:37,196
-renegade police commander
-takes it on himself to
+617
+00:44:27,123 --> 00:44:29,334
+Mayor doesn't even know about it?
 
-728
-00:45:38,006 --> 00:45:40,094
-I dunno, legalize drugs
-in the precinct.
+618
+00:44:29,417 --> 00:44:32,921
+- Can you believe that?
+- Crazy story.
 
-729
-00:45:41,243 --> 00:45:42,768
-Mayor doesn't
-even know about it.
-
-730
-00:45:43,565 --> 00:45:44,457
-Can you believe that?
-
-731
-00:45:45,571 --> 00:45:46,639
-Crazy story.
-
-732
-00:45:47,225 --> 00:45:48,211
+619
+00:44:33,004 --> 00:44:34,339
 Someone...
 
-733
-00:45:49,677 --> 00:45:51,049
+620
+00:44:35,507 --> 00:44:37,509
 I think it's Colvin.
 
-734
-00:45:52,574 --> 00:45:53,278
+621
+00:44:38,343 --> 00:44:40,345
 You know him?
 
-735
-00:45:56,448 --> 00:45:57,809
+622
+00:44:42,389 --> 00:44:44,391
 No, I can't say that I do.
 
-736
-00:46:00,378 --> 00:46:02,243
-Still, I think
-it's funny that some...
+623
+00:44:46,309 --> 00:44:51,356
+Still, I think it's funny that some
+water-cooler talker down in DC
 
-737
-00:46:03,522 --> 00:46:07,426
-water-cooler talker down in D.C.
-Knows any Baltimore cop's name.
+624
+00:44:51,439 --> 00:44:53,567
+knows any Baltimore cop's name.
 
-738
-00:46:10,919 --> 00:46:12,057
+625
+00:44:56,945 --> 00:44:58,947
 I was just wondering.
 
-739
-00:46:22,116 --> 00:46:23,817
+626
+00:45:08,164 --> 00:45:09,916
 Listen, I'm...
 
-740
-00:46:26,410 --> 00:46:28,380
+627
+00:45:12,127 --> 00:45:14,546
 - You're leaving?
 - Yeah, I think so.
 
-741
-00:46:30,269 --> 00:46:30,973
-Goodnight.
+628
+00:45:16,298 --> 00:45:18,133
+Good night.
 
-742
-00:46:39,245 --> 00:46:41,450
-Damn, man, I miss
-this crib already.
+629
+00:45:25,181 --> 00:45:27,475
+Damn, man, I miss this crib already.
 
-743
-00:46:42,904 --> 00:46:45,297
-Yeah, well, you spendin' a lot
-of time at the other spot
+630
+00:45:28,685 --> 00:45:32,689
+Well, you spending a lot of time at the
+other spot doing what you gotta do, huh?
 
-744
-00:46:45,309 --> 00:46:46,811
-doin' what
-you gotta do, huh.
-
-745
-00:46:46,846 --> 00:46:47,620
+631
+00:45:32,772 --> 00:45:34,482
 Yeah.
 
-746
-00:46:48,887 --> 00:46:51,702
+632
+00:45:34,816 --> 00:45:37,736
 Man, it's a shame we got to deal
-with this Marlo bullshit, man.
+with this marlo bullshit, man.
 
-747
-00:46:51,808 --> 00:46:54,013
-I mean if I had taken
-care of that earlier, man...
+633
+00:45:37,819 --> 00:45:42,198
+- If I had taken care of that earlier, man...
+- There's always gonna be a marlo, man.
 
-748
-00:46:54,107 --> 00:46:55,925
-There's always gonna
-be a Marlo, man.
+634
+00:45:42,407 --> 00:45:44,075
+No marlo, no game.
 
-749
-00:46:56,547 --> 00:46:57,837
-No Marlo, no game.
+635
+00:45:45,577 --> 00:45:48,872
+But you could've dealt with that shit
+a little sooner, yeah,
 
-750
-00:46:59,652 --> 00:47:01,904
-But you coulda dealt
-with that shit a little sooner.
+636
+00:45:48,955 --> 00:45:50,999
+but don't let it lay on you like that.
 
-751
-00:47:01,939 --> 00:47:03,792
-I mean, yeah, but
-you know what I'm sayin'
+637
+00:45:51,458 --> 00:45:56,004
+Tonight, I mean, I'm gonna kick back
+and just enjoy this view.
 
-752
-00:47:03,816 --> 00:47:05,317
-don't let it lay
-on you like that.
-
-753
-00:47:05,423 --> 00:47:09,646
-Tonight, I mean, I'm gonna kick
-back and just enjoy this view.
-
-754
-00:47:11,464 --> 00:47:12,965
+638
+00:45:57,339 --> 00:46:00,634
 I mean, look at this shit.
+Can you fucking believe this?
 
-755
-00:47:13,118 --> 00:47:14,502
-Can you fucking
-believe this?
+639
+00:46:00,842 --> 00:46:04,930
+I got a crib that's overlooking the harbor.
+We used to run through this motherfucker,
 
-756
-00:47:14,795 --> 00:47:16,989
-I mean, I got a crib
-that's overlooking the harbor.
-
-757
-00:47:17,012 --> 00:47:19,699
-This is the same place we used
-to run through this motherfucker.
-
-758
-00:47:19,722 --> 00:47:21,622
-We had every security
-guard in there...
-
-759
-00:47:21,833 --> 00:47:22,725
+640
+00:46:05,013 --> 00:46:08,391
+we had every security guard in there
 following us.
 
-760
-00:47:22,760 --> 00:47:23,980
-As they should have.
+641
+00:46:08,475 --> 00:46:11,770
+- As they should have.
+- True, true.
 
-761
-00:47:23,992 --> 00:47:25,845
-True, true.
+642
+00:46:11,853 --> 00:46:14,314
+- And then there was that one time...
+- Toy store?
 
-762
-00:47:25,892 --> 00:47:27,511
-And then there was
-that one time...
-
-763
-00:47:27,546 --> 00:47:28,133
-Toy store.
-
-764
-00:47:28,226 --> 00:47:31,570
-Hell yeah, I told your ass
+643
+00:46:14,397 --> 00:46:17,359
+I told your ass
 not to steal the badminton set.
 
-765
-00:47:31,616 --> 00:47:34,369
+644
+00:46:17,442 --> 00:46:21,279
 What you gonna do
-with a fucking net
+with a fucking net and a racket
 
-766
-00:47:34,533 --> 00:47:37,173
-and a racket and we
-ain't got no yard.
+645
+00:46:21,363 --> 00:46:23,406
+and we ain't got no yard.
 
-767
-00:47:39,178 --> 00:47:41,384
-Uou like, "yo, that white boy
-ain't gonna jump over
+646
+00:46:25,033 --> 00:46:28,578
+You like, "yo, that white boy
+ain't gonna chase after me."
 
-768
-00:47:41,407 --> 00:47:43,140
-that counter
-and come chase after me. "
+647
+00:46:28,662 --> 00:46:30,580
+- He sure did, though.
+- Then he's there.
 
-769
-00:47:43,151 --> 00:47:44,066
-He sure did, though.
+648
+00:46:30,664 --> 00:46:33,291
+- I said, "what the fuck?"
+- He was like Carl Lewis.
 
-770
-00:47:44,078 --> 00:47:45,228
-And he said, "whschooooo".
+649
+00:46:33,375 --> 00:46:35,085
+Fists was balled up.
 
-771
-00:47:45,239 --> 00:47:46,365
-I said, "what the fuck... "
-
-772
-00:47:46,377 --> 00:47:48,055
-He was on your ass
-like Carl Lewis.
-
-773
-00:47:48,078 --> 00:47:49,145
-Fist was rolled up.
-
-774
-00:47:49,228 --> 00:47:51,327
-Your ass was runnin' too,
+650
+00:46:35,168 --> 00:46:37,504
+Your ass was running too,
 fast as you could.
 
-775
-00:47:51,676 --> 00:47:54,128
+651
+00:46:37,587 --> 00:46:40,590
 Punching yourself in the chest
-looking all mad an' shit.
+looking all mad and shit. Argh!
 
-776
-00:47:55,148 --> 00:47:56,497
+652
+00:46:40,674 --> 00:46:43,051
 That shit was crazy, man.
 
-777
-00:47:57,166 --> 00:47:58,785
-Right here, too, man,
-right there.
+653
+00:46:43,134 --> 00:46:46,429
+Right here too, man, right there. Goddamn.
 
-778
-00:47:59,535 --> 00:48:00,204
-Goddamn.
+654
+00:46:48,515 --> 00:46:51,017
+Imagine, if! Had the money that I have now,
 
-779
-00:48:02,738 --> 00:48:05,417
-Can you imagine, man, if I had
-the money that I have now, man
+655
+00:46:51,101 --> 00:46:54,187
+I could have bought
+half this waterfront property.
 
-780
-00:48:05,428 --> 00:48:08,431
-I coulda bought half
-this waterfront property.
+656
+00:46:54,270 --> 00:46:56,106
+God damn it.
 
-781
-00:48:08,443 --> 00:48:09,464
-Goddamnit.
+657
+00:46:57,399 --> 00:46:59,567
+Forget about that for a while, man.
 
-782
-00:48:11,469 --> 00:48:13,170
-Forget about that
-for awhile, man.
+658
+00:47:00,944 --> 00:47:02,946
+You know, just dream with me.
 
-783
-00:48:15,307 --> 00:48:16,339
-Just dream with me.
+659
+00:47:06,074 --> 00:47:08,243
+We ain't gotta dream no more, man.
 
-784
-00:48:20,175 --> 00:48:22,040
-We ain't got
-to dream no more, man.
+660
+00:47:10,954 --> 00:47:12,872
+We got real shit,
 
-785
-00:48:25,069 --> 00:48:26,019
-We got real shit
+661
+00:47:12,956 --> 00:47:15,500
+real estate, that we can touch.
 
-786
-00:48:27,146 --> 00:48:28,037
-real estate
+662
+00:47:23,133 --> 00:47:25,343
+I can't get too fucked up tonight, man.
 
-787
-00:48:28,563 --> 00:48:29,443
-we can touch.
+663
+00:47:25,427 --> 00:47:28,013
+I got some shit
+I gotta do on the site tomorrow.
 
-788
-00:48:37,275 --> 00:48:39,211
-I can't get too
-fucked up tonight, man.
-
-789
-00:48:39,598 --> 00:48:41,909
-I got some shit I gotta
-do on the site tomorrow.
-
-790
-00:48:42,190 --> 00:48:46,432
+664
+00:47:28,096 --> 00:47:33,018
 Plus, the fucking polack
-we got working for us, man
+we got working for us, man,
 
-791
-00:48:47,359 --> 00:48:48,438
+665
+00:47:33,101 --> 00:47:35,186
 I gotta pull his coat.
 
-792
-00:48:49,576 --> 00:48:52,297
-If he had anything to do with
-that Clay Davis bullshit, man
+666
+00:47:35,270 --> 00:47:37,772
+If he had anything to do
+with that Clay Davis bullshit,
 
-793
-00:48:52,321 --> 00:48:54,409
-I'm gonna have to cut
-his money, little faggot.
+667
+00:47:37,856 --> 00:47:40,567
+I'm gonna have to cut his money,
+little faggot.
 
-794
-00:48:55,769 --> 00:48:56,884
-What time y'all meetin'?
+668
+00:47:41,568 --> 00:47:43,445
+What time y'all meeting?
 
-795
-00:49:03,804 --> 00:49:05,110
-What time, 12...
+669
+00:47:49,409 --> 00:47:53,830
+What time? 12, I think. Why?
 
-796
-00:49:06,764 --> 00:49:07,620
-I think, why?
+670
+00:47:53,913 --> 00:47:56,249
+You need me to do something for you?
 
-797
-00:49:08,007 --> 00:49:09,872
-You need me to do
-something for you?
+671
+00:47:57,709 --> 00:48:00,670
+No, I'm just seeing
+where you going to be at.
 
-798
-00:49:11,796 --> 00:49:13,861
-Naw, just seeing where
-you going to be at.
+672
+00:48:02,255 --> 00:48:04,424
+You need to relax more, man.
 
-799
-00:49:16,616 --> 00:49:17,977
-You need to relax
-more, man.
+673
+00:48:07,177 --> 00:48:10,472
+Well, when the time is right, I will.
 
-800
-00:49:21,332 --> 00:49:22,493
-All in time, is right.
+674
+00:48:12,474 --> 00:48:15,143
+You know,
+I don't take my work too seriously.
 
-801
-00:49:23,643 --> 00:49:24,346
-I will.
-
-802
-00:49:26,634 --> 00:49:29,133
-You know I don't take
-my work... too seriously.
-
-803
-00:49:30,822 --> 00:49:31,701
+675
+00:48:16,895 --> 00:48:18,521
 That's right.
 
-804
-00:49:35,502 --> 00:49:36,499
+676
+00:48:21,149 --> 00:48:22,817
 It's just business.
 
-805
-00:49:47,242 --> 00:49:48,415
+677
+00:48:32,494 --> 00:48:34,829
 Us, motherfucker.
 
-806
-00:49:52,165 --> 00:49:53,163
-To us, man.
+678
+00:48:38,166 --> 00:48:39,834
+Us, man.
 
-807
-00:50:33,508 --> 00:50:35,538
-Hit him, Andre,
-go get him.
+679
+00:49:19,374 --> 00:49:22,127
+Get him, Andre, go get him.
 
-808
-00:50:36,059 --> 00:50:37,056
-Come on, Spider.
+680
+00:49:22,210 --> 00:49:25,130
+Come on, spider, you gotta swing on him.
 
-809
-00:50:43,614 --> 00:50:45,268
-- Alright?
+681
+00:49:27,215 --> 00:49:29,008
+Easy, easy, easy.
+
+682
+00:49:29,551 --> 00:49:32,345
+- All right?
 - I'm good, I'm good.
 
-810
-00:50:46,108 --> 00:50:46,765
-Alright.
+683
+00:49:32,887 --> 00:49:34,727
+- Ditty, you up.
+- Why didn't you hit him back?
 
-811
-00:50:46,918 --> 00:50:47,962
-Alright, Ditty, you up.
-
-812
-00:50:48,865 --> 00:50:49,850
+684
+00:49:34,764 --> 00:49:36,558
 You, Justin.
 
-813
-00:50:51,762 --> 00:50:53,686
-C'mon, boy, I'm callin' your name.
+685
+00:49:37,600 --> 00:49:40,103
+Come on, boy, I'm calling your name.
 
-814
-00:50:58,098 --> 00:51:00,890
-Alright, listen up, we're gonna
-have three two-minute rounds.
+686
+00:49:44,065 --> 00:49:47,026
+Listen up.
+We gonna have three two-minute rounds.
 
-815
-00:51:01,160 --> 00:51:02,485
-Watch the low blows.
+687
+00:49:47,110 --> 00:49:49,904
+Watch the low blows. Touch gloves.
 
-816
-00:51:02,720 --> 00:51:03,623
-Touch gloves.
-
-817
-00:51:08,301 --> 00:51:09,274
+688
+00:49:54,200 --> 00:49:55,493
 And...
 
-818
-00:51:10,635 --> 00:51:11,632
+689
+00:49:56,411 --> 00:49:58,329
 Let's go, Justin.
 
-819
-00:51:14,048 --> 00:51:14,647
-Come on.
+690
+00:49:58,413 --> 00:50:00,957
+Justin, come on.
 
-820
-00:51:15,139 --> 00:51:16,465
+691
+00:50:01,040 --> 00:50:02,667
 That's good, that's good.
 
-821
-00:51:20,793 --> 00:51:21,779
-Come on, man.
+692
+00:50:02,876 --> 00:50:04,878
+Straight shot, come on.
 
-822
-00:51:23,221 --> 00:51:23,843
-Block that.
+693
+00:50:04,961 --> 00:50:06,838
+Keep your hands up, Justin.
 
-823
-00:51:23,867 --> 00:51:26,588
-He leadin' left
-and punchin' right, Justin.
+694
+00:50:06,921 --> 00:50:09,507
+- Come on, man. Come on.
+- You gotta block that.
 
-824
-00:51:26,623 --> 00:51:28,265
+695
+00:50:09,591 --> 00:50:14,345
+He leading left and punching right, Justin.
 Move towards his weak side.
 
-825
-00:51:28,277 --> 00:51:29,696
-He only come up
-to your waist.
+696
+00:50:14,429 --> 00:50:17,015
+- He only come up to your waist.
+- Man, bell.
 
-826
-00:51:30,035 --> 00:51:31,114
-Oh, man, bell.
+697
+00:50:19,017 --> 00:50:21,394
+- That was a quick two minutes.
+- Yeah, I know.
 
-827
-00:51:33,366 --> 00:51:34,633
-That was a quick two minutes.
+698
+00:50:21,477 --> 00:50:24,147
+Get you some water, boy, and spit it out.
 
-828
-00:51:34,645 --> 00:51:35,536
-Yeah, I know.
+699
+00:50:27,108 --> 00:50:29,235
+- You all right?
+- Dizzy.
 
-829
-00:51:35,724 --> 00:51:37,683
-Get you some water, boy,
-and spit it out.
+700
+00:50:29,319 --> 00:50:32,447
+That's why the hell
+I keep telling you you got to breathe, boy.
 
-830
-00:51:41,141 --> 00:51:41,880
-You alright?
+701
+00:50:32,530 --> 00:50:34,324
+So, what? You had enough?
 
-831
-00:51:42,419 --> 00:51:43,041
-Dizzy.
+702
+00:50:34,407 --> 00:50:37,410
+- No, I'm good.
+- All right, all right.
 
-832
-00:51:43,346 --> 00:51:45,950
-That's why the hell I keep
-tellin' you got to breathe, boy.
-
-833
-00:51:46,501 --> 00:51:47,921
-So, what?
-You had enough?
-
-834
-00:51:48,449 --> 00:51:49,364
-Nah, I'm good.
-
-835
-00:51:49,657 --> 00:51:51,229
-Alright, alright.
-
-836
-00:51:53,184 --> 00:51:55,037
+703
+00:50:39,120 --> 00:50:41,289
 - Let's go, Justin.
-- Let's go, Justin.
+- Let's go, Justin!
 
-837
-00:51:59,119 --> 00:52:01,017
-Jab, Justin, jab.
+704
+00:50:44,959 --> 00:50:47,462
+Jab, Justin. Gotta jab.
 
-838
-00:52:16,090 --> 00:52:17,240
-Hey, we're up.
+705
+00:50:52,300 --> 00:50:54,302
+Hm.
 
-839
-00:52:17,509 --> 00:52:18,307
-Here it is.
+706
+00:51:01,935 --> 00:51:04,187
+Hey, we're up. Here it is.
 
-840
-00:52:18,589 --> 00:52:20,630
-<i>- It's me, man.
-- You heard from the fat man?</i>
+707
+00:51:04,437 --> 00:51:06,231
+- It's me, man.
+- You heard from the fat man?
 
-841
-00:52:20,653 --> 00:52:21,111
-<i>Yeah. </i>
+708
+00:51:06,314 --> 00:51:08,066
+- Yeah.
+- We low, right?
 
-842
-00:52:21,251 --> 00:52:23,351
-<i>We low, right?
-One mark shy of the mark. </i>
+709
+00:51:08,149 --> 00:51:11,069
+- One Mark shy of the Mark.
+- Yeah, it's light.
 
-843
-00:52:23,750 --> 00:52:24,782
-<i>Yeah, it's light. </i>
+710
+00:51:11,152 --> 00:51:14,530
+- Cherry say it's light.
+- Tell the man I'm doing what needs doing.
 
-844
-00:52:25,220 --> 00:52:26,335
-<i>Cherry says it's light. </i>
+711
+00:51:14,614 --> 00:51:18,034
+All right, I'll tell him.
+Oh, and that other thing?
 
-845
-00:52:26,921 --> 00:52:28,939
-<i>Well, tell the man
-I'm doin' what needs done. </i>
+712
+00:51:18,117 --> 00:51:20,328
+- What?
+- Them two hitters you asked after.
 
-846
-00:52:29,056 --> 00:52:30,182
-<i>A-ight, I'll tell him. </i>
+713
+00:51:20,411 --> 00:51:22,997
+- They good with it.
+- Not on the phone.
 
-847
-00:52:30,874 --> 00:52:32,739
-<i>- Oh, an' that other thing...
-- Huh?</i>
+714
+00:51:25,625 --> 00:51:28,962
+- That's it.
+- We got it!
 
-848
-00:52:33,021 --> 00:52:34,581
-<i>Them two hitters
-you asked after. </i>
-
-849
-00:52:34,628 --> 00:52:35,648
-<i>They good with it. </i>
-
-850
-00:52:35,754 --> 00:52:36,775
-<i>Not on the phone. </i>
-
-851
-00:52:39,649 --> 00:52:40,165
-That's it.
-
-852
-00:52:41,843 --> 00:52:42,582
-We got!
-
-853
-00:52:49,696 --> 00:52:50,412
+715
+00:51:35,468 --> 00:51:37,470
 Good work.
 
-854
-00:52:54,318 --> 00:52:55,925
+716
+00:51:40,348 --> 00:51:42,517
 I guess this is pertinent.
 
-855
-00:53:25,701 --> 00:53:27,367
-Ain't no need
-to go back out.
+717
+00:52:11,587 --> 00:52:15,800
+Ain't no need to go back out.
+You ain't got to prove nothing.
 
-856
-00:53:27,977 --> 00:53:29,455
-You ain't got
-to prove nothin'.
+718
+00:52:15,883 --> 00:52:20,305
+Shoot, my momma hit me harder than that.
+I still got a chance, he getting tired.
 
-857
-00:53:29,784 --> 00:53:31,783
-Shoot, my momma hit me
-harder than that.
-
-858
-00:53:32,099 --> 00:53:33,882
-I still got a chance,
-he gettin' tired.
-
-859
-00:53:34,551 --> 00:53:35,407
+719
+00:52:20,388 --> 00:52:22,056
 Drink and spit.
 
-860
-00:53:39,325 --> 00:53:39,912
-Ready.
+720
+00:52:25,184 --> 00:52:27,478
+- Ready.
+- You more than ready, boy.
 
-861
-00:53:40,205 --> 00:53:41,956
-You more than ready, boy.
+721
+00:52:27,687 --> 00:52:30,189
+You game, rooster.
 
-862
-00:53:42,143 --> 00:53:43,082
-You a game rooster.
-
-863
-00:53:44,595 --> 00:53:45,604
+722
+00:52:30,273 --> 00:52:32,692
 Let's go, Justin!
 
-864
-00:54:01,528 --> 00:54:03,170
-Is there an alley entrance?
+723
+00:52:47,457 --> 00:52:51,919
+- Is there an alley entrance?
+- Boarded up on both sides.
 
-865
-00:54:04,319 --> 00:54:05,704
-Boarded up on both sides.
+724
+00:52:52,003 --> 00:52:55,173
+So we gonna have to go through the front.
 
-866
-00:54:06,173 --> 00:54:07,967
-We gonna have to go
-through the front.
+725
+00:52:55,256 --> 00:52:57,508
+That's a change for you, isn't it?
 
-867
-00:54:09,410 --> 00:54:10,994
-That's a change
-for you, isn't it?
-
-868
-00:54:13,208 --> 00:54:14,628
+726
+00:52:59,052 --> 00:53:02,555
 You just be ready, bow tie.
+You know what I'm talking about?
 
-869
-00:54:15,179 --> 00:54:16,645
-Know what I'm talkin' about?
+727
+00:53:11,105 --> 00:53:12,732
+Breathe, boy. Breathe.
 
-870
-00:54:25,277 --> 00:54:26,215
-Breathe, boy.
-
-871
-00:54:26,368 --> 00:54:27,025
-Breathe.
-
-872
-00:54:33,875 --> 00:54:34,591
+728
+00:53:19,947 --> 00:53:21,449
 Touch gloves.
 
-873
-00:54:41,349 --> 00:54:42,076
-How I do?
+729
+00:53:27,288 --> 00:53:29,874
+- How'd I do?
+- You still got plenty to learn.
 
-874
-00:54:42,123 --> 00:54:43,777
-You still got
-plenty to learn.
+730
+00:53:29,957 --> 00:53:33,294
+But on the heart side? You did good.
 
-875
-00:54:44,024 --> 00:54:45,549
-But on the heart side?
+731
+00:53:38,257 --> 00:53:40,968
+Go on home, soldier. You done for the day.
 
-876
-00:54:46,379 --> 00:54:47,423
-You did good.
+732
+00:53:48,226 --> 00:53:49,811
+I can see it all clearly now.
 
-877
-00:54:52,279 --> 00:54:53,546
-Go on, soldier.
-
-878
-00:54:53,663 --> 00:54:54,919
-You done for today.
-
-879
-00:55:02,309 --> 00:55:03,922
-Oh, I can see it
-all clearly now.
-
-880
-00:55:03,939 --> 00:55:06,942
+733
+00:53:49,894 --> 00:53:52,855
 Between you and them subcontractors
-and that motherfuckin' politician
+and that motherfucking politician,
 
-881
-00:55:06,989 --> 00:55:08,559
-you all had me
-in a spin, right.
+734
+00:53:52,939 --> 00:53:54,232
+y'all had me in a spin, right?
 
-882
-00:55:08,629 --> 00:55:10,706
+735
+00:53:54,315 --> 00:53:56,901
 - Mr. Bell, I don't know...
 - Little man!
 
-883
-00:55:11,093 --> 00:55:13,016
-We gonna get all
-this shit sorted out.
+736
+00:53:56,984 --> 00:54:00,655
+We gonna get all this shit sorted out.
+And if the shit don't come up right,
 
-884
-00:55:13,075 --> 00:55:14,823
-And hey, if the shit
-don't come up right
-
-885
-00:55:14,846 --> 00:55:17,286
+737
+00:54:00,822 --> 00:54:03,199
 one way or another
 you gonna pay for this shit.
 
-886
-00:55:17,332 --> 00:55:18,623
-Look, I understand you're angry
+738
+00:54:03,282 --> 00:54:06,869
+I understand you're angry
+but we've made progress in here.
 
-887
-00:55:18,646 --> 00:55:21,334
-but at the same time you can see
-the progress we've made in here.
+739
+00:54:06,953 --> 00:54:09,914
+I don't know what passed
+between you and senator Davis,
 
-888
-00:55:21,356 --> 00:55:21,778
-Progress.
+740
+00:54:09,997 --> 00:54:12,333
+but if you're unhappy
+with Clayton's performance...
 
-889
-00:55:21,802 --> 00:55:24,664
-Now I honestly don't know what
-passed between you and Senator Davis.
+741
+00:54:14,502 --> 00:54:17,004
+- Shit.
+- Oh, god.
 
-890
-00:55:24,675 --> 00:55:26,763
-But if you're unhappy
-with Clayton's performance
+742
+00:54:17,964 --> 00:54:19,424
+Oh, god, no.
 
-891
-00:55:26,787 --> 00:55:28,230
-then you have
-to work that out...
+743
+00:54:25,638 --> 00:54:28,057
+God, no.
 
-892
-00:55:28,819 --> 00:55:29,523
-Oh, shit.
-
-893
-00:55:29,851 --> 00:55:30,860
-Oh God.
-
-894
-00:55:32,057 --> 00:55:33,452
-Oh, God, no.
-
-895
-00:56:14,491 --> 00:56:15,629
+744
+00:55:00,381 --> 00:55:02,383
 I ain't strapped.
 
-896
-00:56:20,720 --> 00:56:23,707
+745
+00:55:06,637 --> 00:55:10,099
 Look, man, I ain't involved.
 
-897
-00:56:24,998 --> 00:56:27,555
-I ain't involved in
-that gangster bullshit no more.
+746
+00:55:10,892 --> 00:55:13,895
+I ain't involved
+in that gangster bullshit no more.
 
-898
-00:56:35,208 --> 00:56:36,452
-What you niggas want, man?
+747
+00:55:21,152 --> 00:55:24,489
+What y'all niggers want, man?
+Huh? Money?
 
-899
-00:56:38,223 --> 00:56:39,079
-Money?
+748
+00:55:29,118 --> 00:55:31,078
+Is that it?
 
-900
-00:56:43,413 --> 00:56:44,586
-Is that it?!
+749
+00:55:32,038 --> 00:55:35,666
+'Cause if it is, man,
+I can be a better friend to y'all alive.
 
-901
-00:56:46,053 --> 00:56:49,478
-'Cause if it is, man, I can be
-a better friend to y'all alive.
+750
+00:55:38,044 --> 00:55:40,213
+You still don't get it, do you?
 
-902
-00:56:52,105 --> 00:56:53,736
-You still don't
-get it, do you?
+751
+00:55:41,923 --> 00:55:43,966
+This ain't about your money, bro.
 
-903
-00:56:55,906 --> 00:56:57,478
-This ain't about
-your money, bro.
-
-904
-00:56:59,120 --> 00:57:00,270
+752
+00:55:44,926 --> 00:55:47,178
 Your boy gave you up.
 
-905
-00:57:02,639 --> 00:57:03,355
-That's right.
+753
+00:55:48,471 --> 00:55:52,433
+That's right. And we ain't
+had to torture his ass, neither.
 
-906
-00:57:04,058 --> 00:57:06,274
-And we ain't had
-to torture his ass, neither.
+754
+00:56:09,200 --> 00:56:10,868
+It seem like...
 
-907
-00:57:23,283 --> 00:57:24,139
-This seem like...
+755
+00:56:11,619 --> 00:56:14,247
+I can't say nothing to change y'all minds.
 
-908
-00:57:25,711 --> 00:57:27,858
-I can't say nothin'
-to change y'all minds.
+756
+00:56:27,093 --> 00:56:29,011
+Well, get on with it, mother...
 
-909
-00:57:41,177 --> 00:57:43,218
-Well, get on with it,
-motherfuckers!
-
-910
-00:58:18,356 --> 00:58:21,065
-Transcript par Raceman
-
-911
-00:58:21,066 --> 00:58:24,701
-Sous-titres par la Wired Team :
-EZ et El Uploador.
-
-912
-00:58:24,702 --> 00:58:30,122
-www. thewire-france. com
-www. forom. com
-
-
-
-9999
-00:00:0,500 --> 00:00:2,00
-<font color="#ffff00" size=14>www.tvsubtitles.net</font>
