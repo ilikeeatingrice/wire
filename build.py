@@ -187,8 +187,16 @@ def build_html(index_data):
 
 
 def main():
-    with open(INDEX_FILE, encoding="utf-8") as f:
-        index_data = json.load(f)
+    try:
+        with open(INDEX_FILE, encoding="utf-8") as f:
+            index_data = json.load(f)
+    except FileNotFoundError:
+        print(f"Error: index.json not found at {INDEX_FILE}")
+        print("Run: python search.py --rebuild")
+        return
+    except json.JSONDecodeError as e:
+        print(f"Error: index.json is malformed: {e}")
+        return
     html = build_html(index_data)
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
         f.write(html)
