@@ -23,3 +23,19 @@ def test_build_html_embeds_index():
 def test_build_html_contains_const_index():
     html = build.build_html(MOCK_INDEX)
     assert "constINDEX=" in html.replace(" ", "").replace("\n", "")
+
+def test_build_html_has_search_input():
+    html = build.build_html(MOCK_INDEX)
+    assert 'id="query"' in html
+
+def test_build_html_has_season_select():
+    html = build.build_html(MOCK_INDEX)
+    assert 'id="season"' in html
+
+def test_build_html_has_episode_select():
+    html = build.build_html(MOCK_INDEX)
+    assert 'id="episode"' in html
+
+def test_build_html_has_context_select():
+    html = build.build_html(MOCK_INDEX)
+    assert 'id="context"' in html
